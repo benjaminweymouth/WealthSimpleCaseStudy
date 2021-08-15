@@ -54,3 +54,5 @@ WealthSimple Case Study
 ## References 
 
 * 8-10 (or more) sources are used and cited to get a thorough and cohesive view of the company’s domain, history and results. Sources are specifically quoted and referenced clearly and accurately to inform the case study.
+
+Competitive Strategy, Techniques for Analyzing Industries and Competitors - Google Play (2021). Available at: https://play.google.com/books/reader?id=Hn1kNE0OcGsC&pg=GBS.PT15&printsec=frontcover (Accessed: 15 August 2021).
