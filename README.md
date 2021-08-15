@@ -4,7 +4,7 @@ Abstract: This analysis seeks to deconstruct some of the key features, trends an
 
 ## Overview and Origin
 
-* Name of company
+* Name of company: WealthSimple, 
 
 * When was the company incorporated?
 
@@ -31,6 +31,8 @@ Abstract: This analysis seeks to deconstruct some of the key features, trends an
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
+NOTE: Can use Michael Porter's Five Forces Trend model here. Apply to the FinTech Domain. 
+
 * What are the other major companies in this domain?
 
 ## Results
@@ -40,6 +42,8 @@ Abstract: This analysis seeks to deconstruct some of the key features, trends an
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
 * How is your company performing relative to competitors in the same domain?
+
+NOTE: Use Michael Porter's book Competitive Strategy here. Rank financial statements, competitors financial analysis, product line analysis, fees analysis, market condition comparison. (Porter pg 70-75)
 
 ## Recommendations
 
