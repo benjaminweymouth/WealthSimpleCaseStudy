@@ -18,11 +18,18 @@ There were three founders of the company: Michael Katchen, Brett Huneycutt and R
 
 * How did the idea for the company (or project) come about?
 
-The founders had other companies, so the idea of a new company was familiar ground. They racked their brains all night until their heads came up with the bestestestest idea forever all time love love it's so good. Peace out. 
+The founders had other companies, so the idea of a new company was familiar ground. 
+-they grew into the space, hiring different employees from estabilshed incumbands (see OPMwars)
+
+from February to August 2014, they worked days, nights and weekends to hire employees and raise millions of dollars in capital investments.
+(https://perspective.ca/wealthsimple-huron-university-college-london-ontario/)
 
 * How is the company funded? How much funding have they received?
 
-Use CrunchBase - PRE-WORK have already got this part done. 
+Use CrunchBase - PRE-WORK have already got this part done.  Power Financial etc. Can include a graph / chart here of their funding rounds.  
+
+https://www.newswire.ca/news-releases/wealthsimple-funding-announcement-q2-2021-866613230.html
+
 
 
 ## Business Activities:
@@ -48,6 +55,12 @@ In order to achieve that goal, they provide five service offerings:
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+Include stackshare image here. 
+
+List of tech stack
+
+Unknown elements to their tech stack: how do their algorithms work? What inputs do they use? Raw market data? 
 
 ## Landscape:
 
