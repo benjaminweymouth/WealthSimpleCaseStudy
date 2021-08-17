@@ -94,9 +94,21 @@ https://learning.oreilly.com/library/view/investing-for-canadians/9781119736653/
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
+Net profit margin
+
+price-to-earnings ratio.
+
 
 
 * How is your company performing relative to competitors in the same domain?
+
+https://craft.co/wealthsimple
+
+
+HERE WE DO THE RATIO COMPARISON  (use investopedia link)
+https://www.investopedia.com/ask/answers/032315/how-does-ratio-analysis-make-it-easier-compare-different-companies.asp
+
+
 
 NOTE: Use Michael Porter's book Competitive Strategy here. Rank financial statements, competitors financial analysis, product line analysis, fees analysis, market condition comparison. (Porter pg 70-75)
 
