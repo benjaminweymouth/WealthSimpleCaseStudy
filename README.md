@@ -6,7 +6,7 @@ Abstract: This analysis seeks to deconstruct some of the key features, trends an
 
 ## Overview and Origin
 
-* Name of company: WealthSimple 
+* Name of company: WealthSimple. On the TSX, they are listed as 
 
 * When was the company incorporated?
 
@@ -18,14 +18,32 @@ There were three founders of the company: Michael Katchen, Brett Huneycutt and R
 
 * How did the idea for the company (or project) come about?
 
+The founders had other companies, so the idea of a new company was familiar ground. They racked their brains all night until their heads came up with the bestestestest idea forever all time love love it's so good. Peace out. 
+
 * How is the company funded? How much funding have they received?
+
+Use CrunchBase - PRE-WORK have already got this part done. 
 
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
 
+Their specific problem, as stated is to (use mission statement website quote here.) 
+
+In order to achieve that goal, they provide five service offerings: 
+
+    * WealthSimple Invest: 
+    * WealthSimple Trade
+    * WealthSimple Crypto
+    * WealthSimple Cash
+    * WealthSimple Tax
+
+# could do this as a table? instead of bullet point. not sure. 
+
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+
+
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -35,6 +53,8 @@ There were three founders of the company: Michael Katchen, Brett Huneycutt and R
 
 * What domain of the financial industry is the company in?
 
+
+
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
 USE: Articles on the major trends in the Canadian / International FinTech market. 
@@ -43,11 +63,25 @@ NOTE: Can use Michael Porter's Five Forces Trend model here. Apply to the FinTec
 
 * What are the other major companies in this domain?
 
+-other Fintechs of the same size. see this list and resources in my resources list: QuestTrade, QTrade, etc. 
+
+https://learning.oreilly.com/library/view/investing-for-canadians/9781119736653/c05.xhtml#h2-7
+
+-Traditional Banks, that act as competition
+
+
+
+
 ## Results
 
 * What has been the business impact of this company so far?
 
+-how much money are they resposible for
+-who is switching from other institutions 
+
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+
 
 * How is your company performing relative to competitors in the same domain?
 
@@ -56,6 +90,14 @@ NOTE: Use Michael Porter's book Competitive Strategy here. Rank financial statem
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+Chip Rarity is making hardware difficult / expensive. So I'd recommend that they avoid getting into the hardware market. But maybe into software. 
+
+Maybe they should start their own cryptocurrency like WealthSimpleCOIN. 
+
+More patents, more innovation. Maybe use open source projects, hire new talent. 
+
+https://www.cbinsights.com/company/wealthsimple
 
 * Why do you think that offering this product or service would benefit the company?
 
