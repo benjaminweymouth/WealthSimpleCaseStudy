@@ -14,14 +14,19 @@ Abstract: This analysis seeks to deconstruct some of the key features, trends an
 
 * Who are the founders of the company?
 
-There were three founders of the company: Michael Katchen, Brett Huneycutt and Rudy Adler. According 
+There were three founders of the company: Michael Katchen, Brett Huneycutt and Rudy Adler. 
+-Katchen background, previously worked at 
+-Huneycutt  background, previously worked at 
+-Adler background, previously worked at 
 
 * How did the idea for the company (or project) come about?
 
 The founders had other companies, so the idea of a new company was familiar ground. 
 -they grew into the space, hiring different employees from estabilshed incumbands (see OPMwars)
 
-from February to August 2014, they worked days, nights and weekends to hire employees and raise millions of dollars in capital investments.
+
+
+"from February to August 2014, they worked days, nights and weekends to hire employees and raise millions of dollars in capital investments."
 (https://perspective.ca/wealthsimple-huron-university-college-london-ontario/)
 
 * How is the company funded? How much funding have they received?
@@ -121,6 +126,8 @@ Chip Rarity is making hardware difficult / expensive. So I'd recommend that they
 Maybe they should start their own cryptocurrency like WealthSimpleCOIN. 
 
 More patents, more innovation. Maybe use open source projects, hire new talent. 
+
+MORE collaboration with other companies, projects like the work they are doing with Twitter to integrate their WealthSimple Payment app into the Twitter system archetectrue. (reference WealthSimple Cash Twitter BNN Bloomberg news article here)
 
 https://www.cbinsights.com/company/wealthsimple
 
