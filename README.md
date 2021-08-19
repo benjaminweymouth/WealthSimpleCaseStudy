@@ -4,7 +4,7 @@
 
 ### About ###
 -----------------------------
-This analysis seeks to deconstruct some of the key features, trends and activities relating to the company WealthSimple. 
+This analysis seeks to deconstruct some of the key features, trends and activities relating to the company WealthSimple. This main objective will be achieved by analysing WealthSimple in terms of it's structure, orgins, competitors and future outlook. 
 
 ### Table of Contents ### 
 -----------------------------
@@ -16,7 +16,7 @@ This analysis seeks to deconstruct some of the key features, trends and activiti
 
 ## Overview and Origin
 
-The company under analysis for this report is named WealthSimple. The rationale for selecting this company is because WealthSimple provides a unique alternative for financial services. This analysis is a concise overview of the origins, activities and other factors that have lead to the rise of a new power in the financial industry: WealthSimple. 
+The company under analysis for this report is named WealthSimple. The rationale for selecting this company is because in an economic era filled with traditional systems, WealthSimple provides a unique alternative for wealth accummulation. This analysis is a concise overview of the origins, activities and other factors that have lead to the rise of a new power in the financial industry: WealthSimple. 
 
 WealthSimple was founded in 2014, and since then has grown to provide financial services relating to trading, investments, cryptocurrency, portfolio management and tax filing. <sup>[1](#myfootnote1)</sup>
 
