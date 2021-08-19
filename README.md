@@ -53,6 +53,9 @@ https://www.newswire.ca/news-releases/wealthsimple-funding-announcement-q2-2021-
 
 Their specific problem, as stated is to (use mission statement website quote here.) 
 
+> “Mission statement copy paste here ” <sup>[2](#myfootnote2)</sup>
+
+
 In order to achieve that goal, they provide five service offerings: 
 
     * WealthSimple Invest: 
@@ -149,6 +152,7 @@ https://www.cbinsights.com/company/wealthsimple
 
 ## Endnotes
 <a name="myfootnote1">1</a>: Footnote content goes here
+<a name="myfootnote2">2/a>: Quote from Mission statement
 
 ## References 
 
