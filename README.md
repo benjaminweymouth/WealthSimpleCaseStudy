@@ -152,7 +152,7 @@ https://www.cbinsights.com/company/wealthsimple
 
 ## Endnotes
 <a name="myfootnote1">1</a>: Footnote content goes here
-<a name="myfootnote2">2/a>: Quote from Mission statement
+<a name="myfootnote2">2</a>: Quote from Mission statement
 
 ## References 
 
