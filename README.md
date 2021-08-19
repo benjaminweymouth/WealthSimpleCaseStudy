@@ -9,9 +9,10 @@ This analysis seeks to deconstruct some of the key features, trends and activiti
 ### Table of Contents ### 
 -----------------------------
 1. [Overview and Origin](#overview-and-origin) 
-2. PyCharm IDE
-3. Machine Learning Packages
-4. Microsoft Excel
+2. [Business Activities](#business-activities) 
+3. [Landscape](#overview-and-origin) 
+4. [Results](#results) 
+5. [Recommendations](#recommendations)
 
 Abstract: 
 
