@@ -124,6 +124,11 @@ price-to-earnings ratio.
 
 * How is your company performing relative to competitors in the same domain?
 
+According to the Financial Post, the WealthSimple valuation in May 2021 should be enough for it's competition to be concerned. 
+
+https://financialpost.com/investing/wealthsimple-valuation-should-be-a-wake-up-call-for-big-banks-and-traditional-money-managers
+
+
 https://craft.co/wealthsimple
 
 
