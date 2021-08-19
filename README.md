@@ -10,7 +10,7 @@ This analysis seeks to deconstruct some of the key features, trends and activiti
 -----------------------------
 1. [Overview and Origin](#overview-and-origin) 
 2. [Business Activities](#business-activities) 
-3. [Landscape](#overview-and-origin) 
+3. [Landscape](#landscape) 
 4. [Results](#results) 
 5. [Recommendations](#recommendations)
 
@@ -78,7 +78,7 @@ List of tech stack
 
 Unknown elements to their tech stack: how do their algorithms work? What inputs do they use? Raw market data? 
 
-## Landscape:
+## Landscape
 
 * What domain of the financial industry is the company in?
 
