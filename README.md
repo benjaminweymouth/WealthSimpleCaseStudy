@@ -14,9 +14,6 @@ This analysis seeks to deconstruct some of the key features, trends and activiti
 4. [Results](#results) 
 5. [Recommendations](#recommendations)
 
-Abstract: 
-
-
 ## Overview and Origin
 
 The company under analysis for this report is named WealthSimple. WealthSimple was founded in 2014, and since then has grown to provide financial services relating to trading, investments, cryptocurrency, portfolio management and tax filing. <sup>[1](#myfootnote1)</sup>
@@ -148,6 +145,9 @@ https://www.cbinsights.com/company/wealthsimple
 
 * Why are these technologies appropriate for your solution?
 
+## Endnotes
+<a name="myfootnote1">1</a>: Footnote content goes here
+
 ## References 
 
 * 8-10 (or more) sources are used and cited to get a thorough and cohesive view of the company’s domain, history and results. Sources are specifically quoted and referenced clearly and accurately to inform the case study.
@@ -156,5 +156,5 @@ Porter, M. E. (2004). *Competitive Strategy, Techniques for Analyzing Industries
 
 OPM. (2019, October 24). *The Wealthsimple founders before Wealthsimple.* Retrieved August 17, 2021, from OPM Wire website: https://opmglobal.com/opmwire/wealthsimple-founders-before-wealthsimple/
 
-<a name="myfootnote1">1</a>: Footnote content goes here
+
 
