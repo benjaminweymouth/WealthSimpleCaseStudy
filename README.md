@@ -151,8 +151,8 @@ https://www.cbinsights.com/company/wealthsimple
 * Why are these technologies appropriate for your solution?
 
 ## Endnotes
-<a name="myfootnote1">1</a>: Footnote content goes here
-<a name="myfootnote2">2</a>: Quote from Mission statement
+<a name="myfootnote1">1</a>: Footnote content goes here <br/>
+<a name="myfootnote2">2</a>: Quote from Mission statement <br/>
 
 ## References 
 
