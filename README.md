@@ -1,7 +1,19 @@
 ![WealthSimpleLogo](/images/logo.png)
 
 # Examining Simplicity: A Case Study on WealthSimple 
-Abstract: This analysis seeks to deconstruct some of the key features, trends and activities relating to the company WealthSimple. 
+
+### About ###
+-----------------------------
+This analysis seeks to deconstruct some of the key features, trends and activities relating to the company WealthSimple. 
+
+### Table of Contents ### 
+-----------------------------
+1. [Overview and Origin](#overview-and-origin) 
+2. PyCharm IDE
+3. Machine Learning Packages
+4. Microsoft Excel
+
+Abstract: 
 
 
 ## Overview and Origin
