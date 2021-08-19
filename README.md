@@ -6,11 +6,9 @@ Abstract: This analysis seeks to deconstruct some of the key features, trends an
 
 ## Overview and Origin
 
-* Name of company: WealthSimple. On the TSX, they are listed as 
+The company under analysis for this report is named WealthSimple. WealthSimple was founded in 2014, and since then has grown to provide financial services relating to trading, investments, cryptocurrency, portfolio management and tax filing. 
 
-* When was the company incorporated?
-
--the company was founded in 2014. It began in the founders apartment with the first 4 employees (reference to WealthSimple website here https://www.wealthsimple.com/en-ca/magazine/culture-manual) "since the very beginning of the company in 2014 when there were just four of us working together out of Wealthsimple CEO Mike Katchen’s apartment."
+WealthSimple was founded in 2014. It began in the founders apartment with the first 4 employees (reference to WealthSimple website here https://www.wealthsimple.com/en-ca/magazine/culture-manual) "since the very beginning of the company in 2014 when there were just four of us working together out of Wealthsimple CEO Mike Katchen’s apartment."
 
 * Who are the founders of the company?
 
