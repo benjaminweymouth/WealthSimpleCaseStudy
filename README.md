@@ -19,7 +19,7 @@ Abstract:
 
 ## Overview and Origin
 
-The company under analysis for this report is named WealthSimple. WealthSimple was founded in 2014, and since then has grown to provide financial services relating to trading, investments, cryptocurrency, portfolio management and tax filing. 
+The company under analysis for this report is named WealthSimple. WealthSimple was founded in 2014, and since then has grown to provide financial services relating to trading, investments, cryptocurrency, portfolio management and tax filing. <sup>[1](#myfootnote1)</sup>
 
 WealthSimple was founded in 2014. It began in the founders apartment with the first 4 employees (reference to WealthSimple website here https://www.wealthsimple.com/en-ca/magazine/culture-manual) "since the very beginning of the company in 2014 when there were just four of us working together out of Wealthsimple CEO Mike Katchen’s apartment."
 
@@ -156,5 +156,5 @@ Porter, M. E. (2004). *Competitive Strategy, Techniques for Analyzing Industries
 
 OPM. (2019, October 24). *The Wealthsimple founders before Wealthsimple.* Retrieved August 17, 2021, from OPM Wire website: https://opmglobal.com/opmwire/wealthsimple-founders-before-wealthsimple/
 
-‌
+<a name="myfootnote1">1</a>: Footnote content goes here
 
