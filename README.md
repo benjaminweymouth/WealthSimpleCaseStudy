@@ -72,6 +72,10 @@ In order to achieve that goal, they provide five service offerings:
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
+-social responsible ETF (link to description) 
+-offering Halal financiing? Would need to define / describe/
+-one of a few companies that offers a crypto exchange
+
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 Include stackshare image here. 
