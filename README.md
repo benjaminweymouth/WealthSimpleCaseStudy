@@ -1,6 +1,6 @@
 ![WealthSimpleLogo](/images/logo.png)
 
-# Deconstructing Simplicity: A Company Analysis of WealthSimple 
+# Examining Simplicity: A Case Study on WealthSimple 
 Abstract: This analysis seeks to deconstruct some of the key features, trends and activities relating to the company WealthSimple. 
 
 
