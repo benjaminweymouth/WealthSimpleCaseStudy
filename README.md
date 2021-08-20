@@ -131,6 +131,8 @@ More patents, more innovation. Maybe use open source projects, hire new talent.
 
 MORE collaboration with other companies, projects like the work they are doing with Twitter to integrate their WealthSimple Payment app into the Twitter system archetectrue. (reference WealthSimple Cash Twitter BNN Bloomberg news article here)
 
+Wealthsimple Cash becomes first Canadian service integrated into Twitter’s Tip Jar
+
 https://www.cbinsights.com/company/wealthsimple
 
 * Why do you think that offering this product or service would benefit the company?
