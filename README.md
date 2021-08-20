@@ -130,6 +130,8 @@ The idea of a new cryptocurrency may not seem novel, but other avenues of produc
 
 In order to implement a new "WealthCoin" cryptocurrency, WealthSimple would need to employ a number of technologies, similar to the stack employed by Ethereum. Therefore, they would need to implement a data structure that holds a ledger such as BlockChain library, Smart Contracts, cryptography and a distributed peer-to-peer platform. In terms of the actual code, there are many ways to code a BlockChain, such as in C#, GoLang, Python or Rust. <sup>[11](#myendnote11)</sup> 
 
+While this new cryptocurrency would have start up costs associated with it, I would recommend using open-source technologies like Python whenever possible. This would reduce the likelihood of litigation if using a proprietary programming language like C# or Java. Some costs are unavoidable, when scaling up a technology. But the main idea in selecting this type of technology stack would be to insulate the company from any competitors or future costs. 
+
 
 
 ## Endnotes
