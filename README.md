@@ -162,14 +162,28 @@ https://www.cbinsights.com/company/wealthsimple
 ## Endnotes
 <a name="myfootnote1">1</a>: Footnote content goes here <br/>
 <a name="myfootnote2">2</a>: Quote from Mission statement <br/>
+<a name="myfootnote3">3</a>: Quote from Mission statement <br/>
+<a name="myfootnote4">4</a>: Quote from Mission statement <br/>
+<a name="myfootnote5">5</a>: Quote from Mission statement <br/>
+<a name="myfootnote6">6</a>: Quote from Mission statement <br/>
+<a name="myfootnote7">7</a>: Quote from Mission statement <br/>
+<a name="myfootnote8">8</a>: Quote from Mission statement <br/>
 
 ## References 
 
 * 8-10 (or more) sources are used and cited to get a thorough and cohesive view of the company’s domain, history and results. Sources are specifically quoted and referenced clearly and accurately to inform the case study.
 
-Porter, M. E. (2004). *Competitive Strategy, Techniques for Analyzing Industries and Competitors.* - Google Play (2021). Available at: https://play.google.com/books/reader?id=Hn1kNE0OcGsC&pg=GBS.PT15&printsec=frontcover (Accessed: 15 August 2021).
+Porter, Michael E. (2004). *Competitive Strategy, Techniques for Analyzing Industries and Competitors.* - Google Play (2021). Available at: https://play.google.com/books/reader?id=Hn1kNE0OcGsC&pg=GBS.PT15&printsec=frontcover (Accessed: 15 August 2021).
 
 OPM. (2019, October 24). *The Wealthsimple founders before Wealthsimple.* Retrieved August 17, 2021, from OPM Wire website: https://opmglobal.com/opmwire/wealthsimple-founders-before-wealthsimple/
 
+Perspective. (2018, February 15). *Wealthsimple’s connection to Huron University College* - Perspective. Retrieved August 20, 2021, from Perspective website: https://perspective.ca/wealthsimple-huron-university-college-london-ontario/
 
+‌Cbinsights. *Wealthsimple - Headquarter Locations, Competitors, Financials, Employees.*  Retrieved August 20, 2021, from Cbinsights.com website: https://www.cbinsights.com/company/wealthsimple
+
+‌WealthSimple. (2018, August 9). *Wealthsimple: The Story of Who We Are.*  Retrieved August 20, 2021, from Wealthsimple.com website: https://www.wealthsimple.com/en-ca/magazine/culture-manual
+
+‌Newswire. (2021, May 3). *Wealthsimple announces $750 million investment at a $5 billion valuation to build Canada’s leading consumer finance brand.* Retrieved August 20, 2021, from Newswire.ca website: https://www.newswire.ca/news-releases/wealthsimple-funding-announcement-q2-2021-866613230.html
+
+‌
 
