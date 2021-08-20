@@ -49,11 +49,11 @@ In order to acheive this goal, WealthSimple has created a number of new financia
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-Include stackshare image here. 
+WealthSimple uses both a mobile phone app and a web platform for it's products and service offerings. According to StackShare, they implement the mobile app using a platform called React Native and the website is built with React. However, there are many other technologies used in the creation of their products and an image has been included to display the plethora of technologies used. 
 
-List of tech stack
+Wealth Simple Tech Stack, from StackShare: 
 
-Unknown elements to their tech stack: how do their algorithms work? What inputs do they use? Raw market data? 
+![WealthCoinTechStack(/images/StackShareWealthSimple.png)
 
 ## Landscape
 
