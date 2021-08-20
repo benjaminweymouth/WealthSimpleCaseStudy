@@ -61,7 +61,7 @@ The Canadian FinTech market has seen many changes over the last decade. One nota
 
 The other major Fintech firms who inhabit this disruptive space in Canada include QuesTrade, QTrade and RobinHood. However, while QuesTrade and QTrade are available in Canada, RobinHood is not available to Canadians at this time in 2021. Therefore, WealthSimple has a strategic advantage over comparable firms from an international perspective.  
 
-However, the competitive landscape is not perfectly clear for WealthSimple. FinTechNews holds that while WealthSimple might be Canada's largest robo-advisor, other incumbents, including large Canadian banks, have added robo-advisors to their product and service offerings. <sup>[1](#myendnote1)</sup> These large economic rivals include TD WebBroker, CIBC Investor's Edge and RBC Direct Investing. 
+However, the competitive landscape is not perfectly clear for WealthSimple. FinTechNews holds that while WealthSimple might be Canada's largest robo-advisor, other incumbents, including large Canadian banks, have added robo-advisors to their product and service offerings. <sup>[10](#myendnote10)</sup> These large economic rivals include TD WebBroker, CIBC Investor's Edge and RBC Direct Investing. 
 
 One can conclude then, from the structure of the industry, that WealthSimple will face competition both from traditional banks and some domestic Fintech rivals like QTrade. The positive element to this is that the Canadian market is not yet saturated with companies that have the same diversity in their product line like WealthSimple does.  
 
@@ -88,7 +88,6 @@ price-to-earnings ratio.
 According to the Financial Post, the WealthSimple valuation in May 2021 should be enough for it's competition to be concerned. 
 
 https://financialpost.com/investing/wealthsimple-valuation-should-be-a-wake-up-call-for-big-banks-and-traditional-money-managers
-
 
 https://craft.co/wealthsimple
 
@@ -122,9 +121,10 @@ While this new cryptocurrency would have start up costs associated with it, I wo
 <a name="myendnote6">6</a>: [CrunchBase, Company Financials](https://www.crunchbase.com/organization/wealthsimple/company_financials) <br/>
 <a name="myendnote7">7</a>: [WealthSimple, Culture Manual](https://www.wealthsimple.com/en-ca/magazine/culture-manual) <br/>
 <a name="myendnote8">8</a>: [Investopedia, WealthSimple Review](https://www.investopedia.com/wealthsimple-review-4684946)<br/>
-<a name="myendnote9">9</a>: [StackShare Profile, WealthSimple](https://stackshare.io/wealthsimple/wealthsimple) <br/>
-<a name="myendnote10">10</a>: [BNN Bloomberg news article](https://www.bnnbloomberg.ca/wealthsimple-cash-becomes-first-canadian-service-integrated-into-twitter-s-tip-jar-1.1641843) <br/>
-<a name="myendnote11">11</a>: [Medium.com BlockChain article](https://medium.com/duomly-blockchain-online-courses/which-programming-language-is-the-best-to-be-a-blockchain-developer-2cb288e14765)  <br/>
+<a name="myendnote9">9</a>: [FinTech News, Canada Report](https://fintechnews.ch/fintech/fintech-canada-report/19783/) <br/>
+<a name="myendnote10">10</a>: [StackShare Profile, WealthSimple](https://stackshare.io/wealthsimple/wealthsimple) <br/>
+<a name="myendnote11">11</a>: [BNN Bloomberg news article](https://www.bnnbloomberg.ca/wealthsimple-cash-becomes-first-canadian-service-integrated-into-twitter-s-tip-jar-1.1641843) <br/>
+<a name="myendnote12">12</a>: [Medium.com BlockChain article](https://medium.com/duomly-blockchain-online-courses/which-programming-language-is-the-best-to-be-a-blockchain-developer-2cb288e14765)  <br/>
 
 ## References 
 
