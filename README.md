@@ -26,7 +26,7 @@ As stipulated on CrunchBase, the WealthSimple has raised $900.4M in funding. <su
 
 ## Business Activities:
 
-WealthSimple is in the business of creating wealth building opportunities for persons who are willing to accept the risk of a non-traditional financial system. They offer up a new business model which includes online-only service offerings such as investment, trading, bank accounts and a cryptocurrency exchange. Their business architecture is novel because they do not rely upon brick-and-mortar branches to offer these services. It should be noted that this type of banking is still in it's infancy compared to traditional established in-person banking. 
+WealthSimple is in the business of creating wealth building opportunities for persons who are willing to accept the risk of a non-traditional financial company. They offer up a new business model which includes online-only service offerings such as investment, trading, bank accounts and a cryptocurrency exchange. Their business architecture is novel because they do not rely upon brick-and-mortar branches to offer these services. It should be noted that this type of banking is still in it's infancy compared to traditional established in-person banking. 
 
 Their specific problem, as stated is to (use mission statement website quote here.) 
 
@@ -41,7 +41,7 @@ In order to achieve that goal, they provide five service offerings:
     * WealthSimple Cash
     * WealthSimple Tax
 
-# could do this as a table? instead of bullet point. not sure. 
+ 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
