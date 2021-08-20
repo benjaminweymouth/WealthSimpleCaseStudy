@@ -30,7 +30,7 @@ WealthSimple is in the business of creating wealth building opportunities for pe
 
 The WealthSimple creed has been established and it is possible to consider whether or not it is a simple or attainable goal. Their main corporate philosophy is as follows: 
 
-> “The first is our mission. Which is pretty radical — to completely democratize wealth. To see access to financial freedom as a human right for everyone no matter where you come from or how much money you have.” <sup>[3](#myendnote3)</sup>
+> *“The first is our mission. Which is pretty radical — to completely democratize wealth. To see access to financial freedom as a human right for everyone no matter where you come from or how much money you have.”* <sup>[3](#myendnote3)</sup>
 
 
 In order to achieve that goal, they provide five service offerings: 
