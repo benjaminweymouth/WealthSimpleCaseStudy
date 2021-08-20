@@ -94,7 +94,7 @@ Unknown elements to their tech stack: how do their algorithms work? What inputs 
 
 USE: Articles on the major trends in the Canadian / International FinTech market. 
 
-NOTE: Can use Michael Porter's Five Forces Trend model here. Apply to the FinTech Domain. 
+
 
 * What are the other major companies in this domain?
 
@@ -104,7 +104,9 @@ https://learning.oreilly.com/library/view/investing-for-canadians/9781119736653/
 
 -Traditional Banks, that act as competition
 
+-for competitors, use that Craft Website
 
+-FinTechNews holds that while WealthSimple might be Canada's largest robo-advisor, other incumbants, including large Canadian banks have added robo-advisors to their product and service offerings. <sup>[1](#myfootnote1)</sup>
 
 
 ## Results
@@ -135,8 +137,7 @@ https://craft.co/wealthsimple
 HERE WE DO THE RATIO COMPARISON  (use investopedia link)
 https://www.investopedia.com/ask/answers/032315/how-does-ratio-analysis-make-it-easier-compare-different-companies.asp
 
-
-
+NOTE: Can use Michael Porter's Five Forces Trend model here. Apply to the FinTech Domain. 
 NOTE: Use Michael Porter's book Competitive Strategy here. Rank financial statements, competitors financial analysis, product line analysis, fees analysis, market condition comparison. (Porter pg 70-75)
 
 ## Recommendations
@@ -185,5 +186,9 @@ Perspective. (2018, February 15). *Wealthsimple’s connection to Huron Universi
 
 ‌Newswire. (2021, May 3). *Wealthsimple announces $750 million investment at a $5 billion valuation to build Canada’s leading consumer finance brand.* Retrieved August 20, 2021, from Newswire.ca website: https://www.newswire.ca/news-releases/wealthsimple-funding-announcement-q2-2021-866613230.html
 
-‌
+‌Wikipedia Contributors. (2021, August 13). Wealthsimple. Retrieved August 20, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Wealthsimple
+
+‌https://stackshare.io/wealthsimple/wealthsimple
+
+https://fintechnews.ch/fintech/fintech-canada-report/19783/
 
