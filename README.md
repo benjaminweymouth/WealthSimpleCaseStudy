@@ -153,6 +153,8 @@ https://www.cbinsights.com/company/wealthsimple
 
 * 8-10 (or more) sources are used and cited to get a thorough and cohesive view of the company’s domain, history and results. Sources are specifically quoted and referenced clearly and accurately to inform the case study.
 
+Crunchbase. (2014). *Wealthsimple* Retrieved August 20, 2021, from Crunchbase website: https://www.crunchbase.com/organization/wealthsimple
+
 Porter, Michael E. (2004). *Competitive Strategy, Techniques for Analyzing Industries and Competitors.* - Google Play (2021). Available at: https://play.google.com/books/reader?id=Hn1kNE0OcGsC&pg=GBS.PT15&printsec=frontcover (Accessed: 15 August 2021).
 
 OPM. (2019, October 24). *The Wealthsimple founders before Wealthsimple.* Retrieved August 17, 2021, from OPM Wire website: https://opmglobal.com/opmwire/wealthsimple-founders-before-wealthsimple/
@@ -167,8 +169,6 @@ Perspective. (2018, February 15). *Wealthsimple’s connection to Huron Universi
 
 ‌Newswire. (2020, October 14). *Wealthsimple announces CAD $114 million investment led by TCV to transform financial services in Canada.* Retrieved August 20, 2021, from Newswire.ca website: https://www.newswire.ca/news-releases/wealthsimple-announces-cad-114-million-investment-led-by-tcv-to-transform-financial-services-in-canada-889996456.html
 
-‌
-
 ‌Wikipedia Contributors. (2021, August 13). Wealthsimple. Retrieved August 20, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Wealthsimple
 
 ‌https://stackshare.io/wealthsimple/wealthsimple
@@ -176,4 +176,4 @@ Perspective. (2018, February 15). *Wealthsimple’s connection to Huron Universi
 https://fintechnews.ch/fintech/fintech-canada-report/19783/
 
 
-‌
+
