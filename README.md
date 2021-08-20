@@ -169,3 +169,7 @@ Radoslaw Fabisiak. (2018, August 14). *Which programming language is the best to
 
 Investopedia.(2021). *Wealthsimple Review.*  Retrieved August 20, 2021, from Investopedia website: https://www.investopedia.com/wealthsimple-review-4684946
 
+Simpson, M. (2021, March 4). Wealthsimple sells US book of business to Betterment as company claims renewed focus on Canada | BetaKit. Retrieved August 20, 2021, from BetaKit website: https://betakit.com/wealthsimple-sells-us-book-of-business-to-betterment-as-company-claims-renewed-focus-on-canada/
+
+‌
+
