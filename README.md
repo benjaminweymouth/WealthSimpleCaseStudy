@@ -1,4 +1,4 @@
-![WealthSimpleLogo](/images/logo.png)
+![WealthSimpleLogo][(/images/logo.png)](https://www.wealthsimple.com/en-ca/)
 
 # Examining Simplicity: A Case Study on WealthSimple 
 
