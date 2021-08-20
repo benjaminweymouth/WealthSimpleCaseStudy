@@ -57,6 +57,8 @@ Wealth Simple Tech Stack, from StackShare: <sup>[9](#myendnote9)</sup>
 
 * What domain of the financial industry is the company in?
 
+WealthSimple inhabits a growing domain of digital banks who specialize in online trading, cryptocurrency, robo-advising and peer-to-peer payments. This is a novel product portfolio because many firms will only specialize in one or more of these financial products. Thus, WealthSimple's industrial categorization 
+
 
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
