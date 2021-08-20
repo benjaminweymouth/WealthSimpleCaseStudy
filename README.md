@@ -121,8 +121,8 @@ While this new cryptocurrency would have start up costs associated with it, I wo
 <a name="myendnote6">6</a>: [CrunchBase, Company Financials](https://www.crunchbase.com/organization/wealthsimple/company_financials) <br/>
 <a name="myendnote7">7</a>: [WealthSimple, Culture Manual](https://www.wealthsimple.com/en-ca/magazine/culture-manual) <br/>
 <a name="myendnote8">8</a>: [Investopedia, WealthSimple Review](https://www.investopedia.com/wealthsimple-review-4684946)<br/>
-<a name="myendnote9">9</a>: [FinTech News, Canada Report](https://fintechnews.ch/fintech/fintech-canada-report/19783/) <br/>
-<a name="myendnote10">10</a>: [StackShare Profile, WealthSimple](https://stackshare.io/wealthsimple/wealthsimple) <br/>
+<a name="myendnote9">9</a>: [StackShare Profile, WealthSimple](https://stackshare.io/wealthsimple/wealthsimple) <br/>
+<a name="myendnote10">10</a>: [FinTech News, Canada Report](https://fintechnews.ch/fintech/fintech-canada-report/19783/) <br/>
 <a name="myendnote11">11</a>: [BNN Bloomberg news article](https://www.bnnbloomberg.ca/wealthsimple-cash-becomes-first-canadian-service-integrated-into-twitter-s-tip-jar-1.1641843) <br/>
 <a name="myendnote12">12</a>: [Medium.com BlockChain article](https://medium.com/duomly-blockchain-online-courses/which-programming-language-is-the-best-to-be-a-blockchain-developer-2cb288e14765)  <br/>
 
