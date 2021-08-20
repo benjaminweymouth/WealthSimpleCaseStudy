@@ -20,12 +20,8 @@ The rationale for selecting WealthSimple as a case study is because in an econom
 
 WealthSimple was founded in 2014, and since then has grown to provide financial services relating to trading, investments, cryptocurrency, portfolio management and tax filing. <sup>[1](#myendnote1)</sup> It began in the founders apartment with the first 4 employees "since the very beginning of the company in 2014 when there were just four of us working together out of Wealthsimple CEO Mike Katchen’s apartment." <sup>[2](#myendnote1)</sup>
 
-There were three founders of the company: Michael Katchen, Brett Huneycutt and Rudy Adler. Each of the three founders had previously had other financial services companies, so the idea of a new fintech company was familiar ground. From there, they grew into the space, hiring different employees from estabilshed banks and other companies. <sup>[3](#myendnote3)</sup>  
-
-
-
-"from February to August 2014, they worked days, nights and weekends to hire employees and raise millions of dollars in capital investments."
-(https://perspective.ca/wealthsimple-huron-university-college-london-ontario/)
+There were three founders of the company: Michael Katchen, Brett Huneycutt and Rudy Adler. Each of the three founders had previously had other financial services companies, so the idea of a new fintech company was familiar ground. From there, they grew into the space, hiring different employees from estabilshed banks and other companies. <sup>[3](#myendnote3)</sup> The journey to become a successful fintech firm was not an easy one, and one report holds that "from February to August 2014, they worked days, nights and weekends to hire employees and raise millions of dollars in capital investments." <sup>[4](#myendnote4)</sup>
+ 
 
 * How is the company funded? How much funding have they received?
 
@@ -152,7 +148,7 @@ https://www.cbinsights.com/company/wealthsimple
 <a name="myendnote1">1</a>: NewsWire article, May 2020. <br/>
 <a name="myendnote2">2</a>: WealthSimple, Culture Manual <br/>
 <a name="myendnote3">3</a>: OPMGlobal, 2019  <br/>
-<a name="myendnote4">4</a>: Endnote content goes here <br/>
+<a name="myendnote4">4</a>: Perspective, 2018 <br/>
 <a name="myendnote5">5</a>: Endnote content goes here <br/>
 <a name="myendnote6">6</a>: Endnote content goes here <br/>
 <a name="myendnote7">7</a>: Endnote content goes here <br/>
