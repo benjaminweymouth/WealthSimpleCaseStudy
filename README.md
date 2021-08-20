@@ -35,12 +35,6 @@ The WealthSimple creed has been established and it is possible to consider wheth
 
 In order to achieve that goal, they provide five service offerings: 
 
-    * : 
-    * 
-    * 
-    * 
-    * 
-    
 | Service       | Description   | 
 | ------------- |:-------------:| 
 | WealthSimple Invest      | right-aligned | 
