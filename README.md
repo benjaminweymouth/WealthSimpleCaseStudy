@@ -47,8 +47,6 @@ These products and services are geared towards the millenial audience, who may h
 
 In order to acheive this goal, WealthSimple has created a number of new financial products and services that set them apart in the fintech landscape. In terms of unique products, WealthSimple offers a social responsible ETF, Halal financiing and a fully-insured cryptocurrency exchange. a crypto exchange. <sup>[8](#myendnote8)</sup>
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
 WealthSimple uses both a mobile phone app and a web platform for it's products and service offerings. According to StackShare, they implement the mobile app using a platform called React Native and the website is built with React. However, there are many other technologies used in the creation of their products and an image has been included to display the plethora of technologies used. 
 
 Wealth Simple Tech Stack, from StackShare: 
