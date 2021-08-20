@@ -51,7 +51,7 @@ WealthSimple uses both a mobile phone app and a web platform for it's products a
 
 Wealth Simple Tech Stack, from StackShare: 
 
-![WealthCoinTechStack(/images/StackShareWealthSimple.png)
+[![WealthCoinTechStack](/images/StackShareWealthSimple.png)](https://stackshare.io/wealthsimple/wealthsimple)
 
 ## Landscape
 
