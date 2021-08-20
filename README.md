@@ -120,7 +120,7 @@ NOTE: Can use Michael Porter's Five Forces Trend model here. Apply to the FinTec
 NOTE: Use Michael Porter's book Competitive Strategy here. Rank financial statements, competitors financial analysis, product line analysis, fees analysis, market condition comparison. (Porter pg 70-75)
 
 ## Recommendations
-
+![WealthCoinPrototypeLogo](/images/WealthCoin.png)
 
 <p align="center">
    ![WealthCoinPrototypeLogo](/images/WealthCoin.png)
