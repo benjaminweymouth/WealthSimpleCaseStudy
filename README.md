@@ -124,11 +124,7 @@ NOTE: Use Michael Porter's book Competitive Strategy here. Rank financial statem
 
 I recommend that WealthSimple develop a new cryptocurrency, and I propose that it be called "WealthCoin." In the age of cryptocurrency, currency is distributed, autonomous and can transcend political or geographical representations. Whether it is traditional currency or not, the main idea of currency is a placeholder for value to facilitate some exchange between two parties. WealthSimple could capitalize on the popularity of cryptocurrency and offer a digital currency specifically for it's Canadian customers. 
 
-The idea of a new cryptocurrency may not seem novel, but other avenues of product diversity may be even more risky. For example, a foray into hardware during an age of semiconductor scarcity is ill-advised. While cryptocurrencies are abundant, WealthSimple has an exiting customer base that they could market this new "WealthCoin" to. 
-
-More patents, more innovation. Maybe use open source projects, hire new talent. 
-
-MORE collaboration with other companies, projects like the work they are doing with Twitter to integrate their WealthSimple Payment app into the Twitter system archetectrue. (reference WealthSimple Cash Twitter BNN Bloomberg news article here)
+The idea of a new cryptocurrency may not seem novel, but other avenues of product diversity may be even more risky. For example, a foray into hardware during an age of semiconductor scarcity is ill-advised. While cryptocurrencies are abundant, WealthSimple has an exiting customer base that they could market this new "WealthCoin" to. If they develop "WealthCoin", they could file for new patents, and create new innovation in the Canadian FinTech industry. They could engage in more collaborations with other companies, projects like the work they are doing with Twitter to integrate their WealthSimple Payment app into the Twitter system architecture. <sup>[10](#myendnote1)</sup>(reference WealthSimple Cash Twitter BNN Bloomberg news article here)
 
 WealthSimple Cash becomes first Canadian service integrated into Twitter’s Tip Jar
 
@@ -149,6 +145,8 @@ https://www.cbinsights.com/company/wealthsimple
 <a name="myendnote6">6</a>: CrunchBase, Company Financials <br/>
 <a name="myendnote7">7</a>: Endnote content goes here <br/>
 <a name="myendnote8">8</a>: Endnote content goes here <br/>
+<a name="myendnote9">9</a>: Endnote9 content goes here <br/>
+<a name="myendnote10">10</a>: BNN Bloomberg news article <br/>
 
 ## References 
 
@@ -176,5 +174,6 @@ StackShare. (2021). *Wealthsimple - Wealthsimple Tech Stack.*  Retrieved August 
 
 FinTech Switzerland. (2018). Fintech Canada Report, Industry Set to Witness Strong Grow. Retrieved 20 August 2021, from https://fintechnews.ch/fintech/fintech-canada-report/19783/
 
+The Canadian Press. (2021, August 19). *Wealthsimple Cash becomes first Canadian service integrated into Twitter’s Tip Jar*  - BNN Bloomberg. Retrieved August 20, 2021, from BNN website: https://www.bnnbloomberg.ca/wealthsimple-cash-becomes-first-canadian-service-integrated-into-twitter-s-tip-jar-1.1641843
 
 
