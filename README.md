@@ -8,13 +8,13 @@ This analysis seeks to deconstruct some of the key features, trends and activiti
 
 ### Table of Contents ### 
 -----------------------------
-1. [Overview and Origin](#overview,-origins-and-funding) 
+1. [Overview and Origin](overview-and-origin) 
 2. [Business Activities](#business-activities) 
 3. [Landscape](#landscape) 
 4. [Results](#results) 
 5. [Recommendations](#recommendations)
 
-## Overview, Origins and Funding
+## Overview and Origin
 
 The rationale for selecting WealthSimple as a case study is because in an economic era filled with traditional banking systems, WealthSimple provides a unique alternative for wealth accumulation. This analysis is a concise overview of the origins, activities and other factors that have led to the rise of a new power in the financial industry: WealthSimple. 
 
