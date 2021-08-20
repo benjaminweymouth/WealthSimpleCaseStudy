@@ -1,6 +1,6 @@
 [![WealthSimpleLogo](/images/logo.png)](https://www.wealthsimple.com/en-ca/)
 
-# Examining Simplicity: A Case Study on WealthSimple 
+# Simply Disruptive: A Case Study of WealthSimple
 
 ### About ###
 -----------------------------
