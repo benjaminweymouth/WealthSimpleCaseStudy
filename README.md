@@ -127,7 +127,7 @@ While this new cryptocurrency would have start up costs associated with it, I wo
 
 
 ## Endnotes
-<a name="myendnote1"  href="https://www.newswire.ca/news-releases/wealthsimple-announces-cad-114-million-investment-led-by-tcv-to-transform-financial-services-in-canada-889996456.html">1</a>: NewsWire article, May 2020. <br/>
+<a name="myendnote1">1</a>: [NewsWire article, May 2020.](href="https://www.newswire.ca/news-releases/wealthsimple-announces-cad-114-million-investment-led-by-tcv-to-transform-financial-services-in-canada-889996456.html") <br/>
 <a name="myendnote2">2</a>: WealthSimple, Culture Manual <br/>
 <a name="myendnote3">3</a>: OPMGlobal, 2019  <br/>
 <a name="myendnote4">4</a>: Perspective, 2018 <br/>
