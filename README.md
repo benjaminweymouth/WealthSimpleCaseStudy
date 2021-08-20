@@ -128,16 +128,16 @@ While this new cryptocurrency would have start up costs associated with it, I wo
 
 ## Endnotes
 <a name="myendnote1">1</a>: [NewsWire article, May 2020.](https://www.newswire.ca/news-releases/wealthsimple-announces-cad-114-million-investment-led-by-tcv-to-transform-financial-services-in-canada-889996456.html) <br/>
-<a name="myendnote2">2</a>: WealthSimple, Culture Manual <br/>
-<a name="myendnote3">3</a>: OPMGlobal, 2019  <br/>
-<a name="myendnote4">4</a>: Perspective, 2018 <br/>
-<a name="myendnote5">5</a>: CrunchBase <br/>
-<a name="myendnote6">6</a>: CrunchBase, Company Financials <br/>
-<a name="myendnote7">7</a>: WealthSimple, Culture Manual <br/>
-<a name="myendnote8">8</a>: Investopedia, WealthSimple Review<br/>
-<a name="myendnote9">9</a>: Endnote9 content goes here <br/>
-<a name="myendnote10">10</a>: BNN Bloomberg news article <br/>
-<a name="myendnote11">11</a>: Medium.com BlockChain article  <br/>
+<a name="myendnote2">2</a>: [WealthSimple, Culture Manual](https://www.wealthsimple.com/en-ca/magazine/culture-manual) <br/>
+<a name="myendnote3">3</a>: [OPMGlobal, 2019](https://opmglobal.com/opmwire/wealthsimple-founders-before-wealthsimple/)  <br/>
+<a name="myendnote4">4</a>: [Perspective, 2018](https://perspective.ca/wealthsimple-huron-university-college-london-ontario/) <br/>
+<a name="myendnote5">5</a>: [CrunchBase](https://www.crunchbase.com/organization/wealthsimple) <br/>
+<a name="myendnote6">6</a>: [CrunchBase, Company Financials](https://www.crunchbase.com/organization/wealthsimple/company_financials) <br/>
+<a name="myendnote7">7</a>: [WealthSimple, Culture Manual](https://www.wealthsimple.com/en-ca/magazine/culture-manual) <br/>
+<a name="myendnote8">8</a>: [Investopedia, WealthSimple Review](https://www.investopedia.com/wealthsimple-review-4684946)<br/>
+<a name="myendnote9">9</a>: [Endnote9 content goes here]() <br/>
+<a name="myendnote10">10</a>: [BNN Bloomberg news article](https://www.bnnbloomberg.ca/wealthsimple-cash-becomes-first-canadian-service-integrated-into-twitter-s-tip-jar-1.1641843) <br/>
+<a name="myendnote11">11</a>: [Medium.com BlockChain article](https://medium.com/duomly-blockchain-online-courses/which-programming-language-is-the-best-to-be-a-blockchain-developer-2cb288e14765)  <br/>
 
 ## References 
 
