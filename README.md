@@ -40,6 +40,12 @@ In order to achieve that goal, they provide five service offerings:
     * WealthSimple Crypto
     * WealthSimple Cash
     * WealthSimple Tax
+    
+| Service       | Description   | 
+| ------------- |:-------------:| 
+| col 3 is      | right-aligned | 
+| col 2 is      | centered      |  
+| zebra stripes | are neat      | 
 
  
 
