@@ -22,9 +22,7 @@ WealthSimple was founded in 2014, and since then has grown to provide financial 
 
 There were three founders of the company: Michael Katchen, Brett Huneycutt and Rudy Adler. Each of the three founders had previously had other financial services companies, so the idea of a new fintech company was familiar ground. From there, they grew into the space, hiring different employees from estabilshed banks and other companies. <sup>[3](#myendnote3)</sup> The journey to become a successful fintech firm was not an easy one, and one report holds that "from February to August 2014, they worked days, nights and weekends to hire employees and raise millions of dollars in capital investments." <sup>[4](#myendnote4)</sup>
  
-As stipulated on their website, the size of their funding at the present is $900.4M. They have achieved this amount of funding from a variety of sources. CrunchBase lists their principal seed investors as a company called Power Financial Corporation, who funded the company during their Series A, B and C rounds. 
-
-According to the Crunchbase page for WealthSimple, some investors in WealthSimple include Ryan Reynolds, Drake and the Michael J. Fox Foundation. In a variety of private equity rounds, these and other investors have raised a total of close to a billion dollars. This is a substantial amount and would indicate that the firm is desirable as an investment. 
+As stipulated on CrunchBase, the WealthSimple has raised $900.4M in funding. <sup>[5](#myendnote5)</sup> They have achieved this amount of funding from a variety of sources. CrunchBase lists their principal seed investors as a company called Power Financial Corporation, who funded the company during their Series A, B and C rounds. Other investors in WealthSimple include Ryan Reynolds, Drake and the Michael J. Fox Foundation.<sup>[6](#myendnote6)</sup> This is a substantial amount and would indicate that the firm is desirable as an investment. 
 
 ## Business Activities:
 
@@ -146,8 +144,8 @@ https://www.cbinsights.com/company/wealthsimple
 <a name="myendnote2">2</a>: WealthSimple, Culture Manual <br/>
 <a name="myendnote3">3</a>: OPMGlobal, 2019  <br/>
 <a name="myendnote4">4</a>: Perspective, 2018 <br/>
-<a name="myendnote5">5</a>: Endnote content goes here <br/>
-<a name="myendnote6">6</a>: Endnote content goes here <br/>
+<a name="myendnote5">5</a>: CrunchBase <br/>
+<a name="myendnote6">6</a>: CrunchBase, Company Financials <br/>
 <a name="myendnote7">7</a>: Endnote content goes here <br/>
 <a name="myendnote8">8</a>: Endnote content goes here <br/>
 
