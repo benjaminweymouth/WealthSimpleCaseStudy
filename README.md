@@ -4,7 +4,7 @@
 
 ### About ###
 -----------------------------
-This analysis seeks to deconstruct some of the key features, trends and activities relating to the company WealthSimple. This main objective will be achieved by analysing WealthSimple in terms of it's structure, origins, competitors and future outlook. 
+This analysis seeks to deconstruct some of the key features, trends and activities relating to the company WealthSimple. This main objective will be achieved by analyzing WealthSimple in terms of it's structure, origins, competitors and future outlook. 
 
 ### Table of Contents ### 
 -----------------------------
@@ -18,7 +18,7 @@ This analysis seeks to deconstruct some of the key features, trends and activiti
 
 The rationale for selecting WealthSimple as a case study is because in an economic era filled with traditional banking systems, WealthSimple provides a unique alternative for wealth accumulation. This analysis is a concise overview of the origins, activities and other factors that have led to the rise of a new power in the financial industry: WealthSimple. 
 
-WealthSimple was founded in 2014, and since then has grown to provide financial services relating to trading, investments, cryptocurrency, portfolio management and tax filing. <sup>[1](#myendnote1)</sup> It began in the founders apartment with the first 4 employees "since the very beginning of the company in 2014 when there were just four of us working together out of Wealthsimple CEO Mike Katchen’s apartment." <sup>[2](#myendnote1)</sup>
+WealthSimple was founded in 2014, and since then has grown to provide financial services relating to trading, investments, cryptocurrencies, portfolio management and tax filing. <sup>[1](#myendnote1)</sup> It began in the founders apartment with the first 4 employees "since the very beginning of the company in 2014 when there were just four of us working together out of WealthSimple CEO Mike Katchen’s apartment." <sup>[2](#myendnote1)</sup>
 
 There were three founders of the company: Michael Katchen, Brett Huneycutt and Rudy Adler. Each of the three founders had previously had other financial services companies, so the idea of a new fintech company was familiar ground. From there, they grew into the space, hiring different employees from estabilshed banks and other companies. <sup>[3](#myendnote3)</sup> The journey to become a successful fintech firm was not an easy one, and one report holds that "from February to August 2014, they worked days, nights and weekends to hire employees and raise millions of dollars in capital investments." <sup>[4](#myendnote4)</sup>
  
@@ -131,7 +131,7 @@ More patents, more innovation. Maybe use open source projects, hire new talent.
 
 MORE collaboration with other companies, projects like the work they are doing with Twitter to integrate their WealthSimple Payment app into the Twitter system archetectrue. (reference WealthSimple Cash Twitter BNN Bloomberg news article here)
 
-Wealthsimple Cash becomes first Canadian service integrated into Twitter’s Tip Jar
+WealthSimple Cash becomes first Canadian service integrated into Twitter’s Tip Jar
 
 https://www.cbinsights.com/company/wealthsimple
 
@@ -155,11 +155,11 @@ https://www.cbinsights.com/company/wealthsimple
 
 * 8-10 (or more) sources are used and cited to get a thorough and cohesive view of the company’s domain, history and results. Sources are specifically quoted and referenced clearly and accurately to inform the case study.
 
-Crunchbase. (2014). *Wealthsimple* Retrieved August 20, 2021, from Crunchbase website: https://www.crunchbase.com/organization/wealthsimple
+Crunchbase. (2014). *WealthSimple* Retrieved August 20, 2021, from Crunchbase website: https://www.crunchbase.com/organization/wealthsimple
 
 Porter, Michael E. (2004). *Competitive Strategy, Techniques for Analyzing Industries and Competitors.* - Google Play (2021). Available at: https://play.google.com/books/reader?id=Hn1kNE0OcGsC&pg=GBS.PT15&printsec=frontcover (Accessed: 15 August 2021).
 
-OPM. (2019, October 24). *The Wealthsimple founders before Wealthsimple.* Retrieved August 17, 2021, from OPM Wire website: https://opmglobal.com/opmwire/wealthsimple-founders-before-wealthsimple/
+OPM. (2019, October 24). *The WealthSimple founders before Wealthsimple.* Retrieved August 17, 2021, from OPM Wire website: https://opmglobal.com/opmwire/wealthsimple-founders-before-wealthsimple/
 
 Perspective. (2018, February 15). *Wealthsimple’s connection to Huron University College* - Perspective. Retrieved August 20, 2021, from Perspective website: https://perspective.ca/wealthsimple-huron-university-college-london-ontario/
 
