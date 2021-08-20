@@ -30,7 +30,7 @@ WealthSimple is in the business of creating wealth building opportunities for pe
 
 The WealthSimple creed has been established and it is possible to consider whether or not it is a simple or attainable goal. Their main corporate philosophy is as follows: 
 
-> *“The first is our mission. Which is pretty radical — to completely democratize wealth. To see access to financial freedom as a human right for everyone no matter where you come from or how much money you have.”* <sup>[3](#myendnote3)</sup>
+> *“The first is our mission. Which is pretty radical — to completely democratize wealth. To see access to financial freedom as a human right for everyone no matter where you come from or how much money you have.”* <sup>[7](#myendnote7)</sup>
 
 
 In order to achieve that goal, they provide five service offerings: 
@@ -137,7 +137,7 @@ In order to implement a new "WealthCoin" cryptocurrency, WealthSimple would need
 <a name="myendnote4">4</a>: Perspective, 2018 <br/>
 <a name="myendnote5">5</a>: CrunchBase <br/>
 <a name="myendnote6">6</a>: CrunchBase, Company Financials <br/>
-<a name="myendnote7">7</a>: Endnote content goes here <br/>
+<a name="myendnote7">7</a>: WealthSimple, Culture Manual <br/>
 <a name="myendnote8">8</a>: Endnote content goes here <br/>
 <a name="myendnote9">9</a>: Endnote9 content goes here <br/>
 <a name="myendnote10">10</a>: BNN Bloomberg news article <br/>
