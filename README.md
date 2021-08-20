@@ -120,7 +120,7 @@ NOTE: Can use Michael Porter's Five Forces Trend model here. Apply to the FinTec
 NOTE: Use Michael Porter's book Competitive Strategy here. Rank financial statements, competitors financial analysis, product line analysis, fees analysis, market condition comparison. (Porter pg 70-75)
 
 ## Recommendations
-[![WealthSimpleLogo](/images/logo.png)](https://www.wealthsimple.com/en-ca/)
+[![WealthCoinPrototypeLogo](/images/WealthCoin.png)]
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
 Chip Rarity is making hardware difficult / expensive. So I'd recommend that they avoid getting into the hardware market. But maybe into software. 
