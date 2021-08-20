@@ -37,11 +37,11 @@ In order to achieve that goal, they provide five service offerings:
 
 | Service       | Description   | 
 | ------------- |:-------------:| 
-| WealthSimple Invest      | right-aligned | 
-| WealthSimple Trade      | centered      |  
-| WealthSimple Crypto | are neat      | 
-| WealthSimple Cash | are neat      | 
-| WealthSimple Tax | are neat      | 
+| WealthSimple Invest      | An investment tool | 
+| WealthSimple Trade      | A commission-free stock trading platform      |  
+| WealthSimple Crypto | A Cryptocurrency Exchange with insurance coverage      | 
+| WealthSimple Cash | A peer-to-peer payment platform     | 
+| WealthSimple Tax | A Tax Return platform for analysis and filing      | 
 
  
 
