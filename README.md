@@ -20,7 +20,7 @@ The company under analysis for this report is named WealthSimple. The rationale 
 
 WealthSimple was founded in 2014, and since then has grown to provide financial services relating to trading, investments, cryptocurrency, portfolio management and tax filing. <sup>[1](#myendnote1)</sup>
 
-WealthSimple was founded in 2014. It began in the founders apartment with the first 4 employees (reference to WealthSimple website here https://www.wealthsimple.com/en-ca/magazine/culture-manual) "since the very beginning of the company in 2014 when there were just four of us working together out of Wealthsimple CEO Mike Katchen’s apartment." <sup>[2](#myendnote1)</sup>
+WealthSimple was founded in 2014. It began in the founders apartment with the first 4 employees "since the very beginning of the company in 2014 when there were just four of us working together out of Wealthsimple CEO Mike Katchen’s apartment." <sup>[2](#myendnote1)</sup>
 
 * Who are the founders of the company?
 
@@ -53,7 +53,7 @@ https://www.newswire.ca/news-releases/wealthsimple-funding-announcement-q2-2021-
 
 Their specific problem, as stated is to (use mission statement website quote here.) 
 
-> “Mission statement copy paste here ” <sup>[3](#myendnote2)</sup>
+> “Mission statement copy paste here ” <sup>[3](#myendnote3)</sup>
 
 
 In order to achieve that goal, they provide five service offerings: 
@@ -161,14 +161,14 @@ https://www.cbinsights.com/company/wealthsimple
 * Why are these technologies appropriate for your solution?
 
 ## Endnotes
-<a name="myendnote1">1</a>: Footnote content goes here <br/>
-<a name="myendnote2">2</a>: Quote from Mission statement <br/>
-<a name="myendnote3">3</a>: Quote from Mission statement <br/>
-<a name="myendnote4">4</a>: Quote from Mission statement <br/>
-<a name="myendnote5">5</a>: Quote from Mission statement <br/>
-<a name="myendnote6">6</a>: Quote from Mission statement <br/>
-<a name="myendnote7">7</a>: Quote from Mission statement <br/>
-<a name="myendnote8">8</a>: Quote from Mission statement <br/>
+<a name="myendnote1">1</a>: NewsWire article, May 2020. <br/>
+<a name="myendnote2">2</a>: Endnote content goes here <br/>
+<a name="myendnote3">3</a>: Endnote content goes here <br/>
+<a name="myendnote4">4</a>: Endnote content goes here <br/>
+<a name="myendnote5">5</a>: Endnote content goes here <br/>
+<a name="myendnote6">6</a>: Endnote content goes here <br/>
+<a name="myendnote7">7</a>: Endnote content goes here <br/>
+<a name="myendnote8">8</a>: Endnote content goes here <br/>
 
 ## References 
 
@@ -186,9 +186,15 @@ Perspective. (2018, February 15). *Wealthsimple’s connection to Huron Universi
 
 ‌Newswire. (2021, May 3). *Wealthsimple announces $750 million investment at a $5 billion valuation to build Canada’s leading consumer finance brand.* Retrieved August 20, 2021, from Newswire.ca website: https://www.newswire.ca/news-releases/wealthsimple-funding-announcement-q2-2021-866613230.html
 
+‌Newswire. (2020, October 14). *Wealthsimple announces CAD $114 million investment led by TCV to transform financial services in Canada.* Retrieved August 20, 2021, from Newswire.ca website: https://www.newswire.ca/news-releases/wealthsimple-announces-cad-114-million-investment-led-by-tcv-to-transform-financial-services-in-canada-889996456.html
+
+‌
+
 ‌Wikipedia Contributors. (2021, August 13). Wealthsimple. Retrieved August 20, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Wealthsimple
 
 ‌https://stackshare.io/wealthsimple/wealthsimple
 
 https://fintechnews.ch/fintech/fintech-canada-report/19783/
 
+
+‌
