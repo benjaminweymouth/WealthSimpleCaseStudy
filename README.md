@@ -18,21 +18,9 @@ This analysis seeks to deconstruct some of the key features, trends and activiti
 
 The rationale for selecting WealthSimple as a case study is because in an economic era filled with traditional banking systems, WealthSimple provides a unique alternative for wealth accummulation. This analysis is a concise overview of the origins, activities and other factors that have lead to the rise of a new power in the financial industry: WealthSimple. 
 
-WealthSimple was founded in 2014, and since then has grown to provide financial services relating to trading, investments, cryptocurrency, portfolio management and tax filing. <sup>[1](#myendnote1)</sup>
+WealthSimple was founded in 2014, and since then has grown to provide financial services relating to trading, investments, cryptocurrency, portfolio management and tax filing. <sup>[1](#myendnote1)</sup> It began in the founders apartment with the first 4 employees "since the very beginning of the company in 2014 when there were just four of us working together out of Wealthsimple CEO Mike Katchen’s apartment." <sup>[2](#myendnote1)</sup>
 
-It began in the founders apartment with the first 4 employees "since the very beginning of the company in 2014 when there were just four of us working together out of Wealthsimple CEO Mike Katchen’s apartment." <sup>[2](#myendnote1)</sup>
-
-* Who are the founders of the company?
-
-There were three founders of the company: Michael Katchen, Brett Huneycutt and Rudy Adler. 
--Katchen background, previously worked at 
--Huneycutt  background, previously worked at 
--Adler background, previously worked at 
-
-* How did the idea for the company (or project) come about?
-
-The founders had other companies, so the idea of a new company was familiar ground. 
--they grew into the space, hiring different employees from estabilshed incumbands (see OPMwars)
+There were three founders of the company: Michael Katchen, Brett Huneycutt and Rudy Adler. Each of the three founders had previously had other financial services companies, so the idea of a new fintech company was familiar ground. From there, they grew into the space, hiring different employees from estabilshed banks and other companies. <sup>[3](#myendnote3)</sup>
 
 
 
@@ -162,8 +150,8 @@ https://www.cbinsights.com/company/wealthsimple
 
 ## Endnotes
 <a name="myendnote1">1</a>: NewsWire article, May 2020. <br/>
-<a name="myendnote2">2</a>: Endnote content goes here <br/>
-<a name="myendnote3">3</a>: Endnote content goes here <br/>
+<a name="myendnote2">2</a>: WealthSimple, Culture Manual <br/>
+<a name="myendnote3">3</a>: OPMGlobal, 2019  <br/>
 <a name="myendnote4">4</a>: Endnote content goes here <br/>
 <a name="myendnote5">5</a>: Endnote content goes here <br/>
 <a name="myendnote6">6</a>: Endnote content goes here <br/>
