@@ -122,11 +122,9 @@ NOTE: Use Michael Porter's book Competitive Strategy here. Rank financial statem
 ## Recommendations
 ![WealthCoinPrototypeLogo](/images/WealthCoin.png)
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+I recommend that WealthSimple develop a new cryptocurrency, and I propose that it be called "WealthCoin." In the age of cryptocurrency, currency is distributed, autonomous and can transcend political or geographical representations. Whether it is traditional currency or not, the main idea of currency is a placeholder for value to facilitate some exchange between two parties. WealthSimple could capitalize on the popularity of cryptocurrency and offer a digital currency specifically for it's Canadian customers. 
 
-Chip Rarity is making hardware difficult / expensive. So I'd recommend that they avoid getting into the hardware market. But maybe into software. 
-
-Maybe they should start their own cryptocurrency like WealthSimpleCOIN. 
+The idea of a new cryptocurrency may not seem novel, but other avenues of product diversity may be even more risky. For example, a foray into hardware during an age of semiconductor scarcity is ill-advised. While cryptocurrencies are abundant, WealthSimple has an exiting customer base that they could market this new "WealthCoin" to. 
 
 More patents, more innovation. Maybe use open source projects, hire new talent. 
 
