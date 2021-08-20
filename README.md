@@ -72,7 +72,7 @@ One can conclude then, from the structure of the industry, that WealthSimple wil
 
 In terms of results, WealthSimple has approximately "$9.7 billion in assets under management", which are assets that would otherwise be invested in other fintech firms, or in established banks. Since the company has been around for less than a decade, it is prudent to conclude that it has made, and will continue to make a significant impact. However, it is unclear if the current success that the company has acheived will continue or whether it will plateau. 
 
-The results and impact of WealthSimple on the FinTech market have been impressive. However, the Crunchbase website also indicates that in 2021 WealthSimple divested all their U.S. clients in order to focus on the Canadian retail market. This loss of a client base may indicate a downturn in viability for the company. It is yet to be seen as to whether or not Canadian regulators will initiate further restrictions on the cryptocurrency market. Thus, at the present time, it seems on balance that CrunchBase is part of a highly profitable, yet highly emerging market. 
+The results and impact of WealthSimple on the FinTech market have been impressive. However, the Crunchbase website also indicates that in 2021 WealthSimple divested all their U.S. clients in order to focus on the Canadian retail market. This loss of a client base may indicate a downturn in viability for the company. It is yet to be seen as to whether or not Canadian regulators will initiate further restrictions on the cryptocurrency market. Thus, at the present time, it seems on balance that CrunchBase is part of a highly profitable, yet highly emerging market. A closer analysis with some specific metrics in the next section will allow for a quantitative analysis to be performed. 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -80,7 +80,11 @@ Net profit margin
 
 price-to-earnings ratio.
 
+-market valuation (use CrunchBase compared to competitors, analyse valuation.) 
 
+-number of employees (use CrunchBase compared to competitors, analyse valuation.) 
+
+-
 
 * How is your company performing relative to competitors in the same domain?
 
