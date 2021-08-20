@@ -59,17 +59,9 @@ WealthSimple inhabits a growing economic domain of digital banks who specialize 
 
 The Canadian FinTech market has seen many changes over the last decade. One notable trend is the introduction of new financial disruptors, like WealthSimple, who enter a field once previously dominated by established banks and financial institutions. 
 
-The other major 
+The other major Fintech firms who inhabit this disruptive space in Canada include QuesTrade, QTrade and RobinHood. However, while QuesTrade and QTrade are available in Canada, RobinHood is not available to Canadians at this time in 2021. Therefore, WealthSimple has a strategic advantage over comparable firms from an international perspective.  
 
--other Fintechs of the same size. see this list and resources in my resources list: QuestTrade, QTrade, etc. 
-
-https://learning.oreilly.com/library/view/investing-for-canadians/9781119736653/c05.xhtml#h2-7
-
--Traditional Banks, that act as competition
-
--for competitors, use that Craft Website
-
--FinTechNews holds that while WealthSimple might be Canada's largest robo-advisor, other incumbants, including large Canadian banks have added robo-advisors to their product and service offerings. <sup>[1](#myendnote1)</sup>
+However, the competitive landscape is not perfectly clear for WealthSimple. FinTechNews holds that while WealthSimple might be Canada's largest robo-advisor, other incumbents, including large Canadian banks, have added robo-advisors to their product and service offerings. <sup>[1](#myendnote1)</sup>
 
 
 ## Results
@@ -98,6 +90,7 @@ https://financialpost.com/investing/wealthsimple-valuation-should-be-a-wake-up-c
 
 https://craft.co/wealthsimple
 
+https://www.owler.com/company/wealthsimple
 
 HERE WE DO THE RATIO COMPARISON  (use investopedia link)
 https://www.investopedia.com/ask/answers/032315/how-does-ratio-analysis-make-it-easier-compare-different-companies.asp
