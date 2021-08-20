@@ -49,7 +49,7 @@ In order to acheive this goal, WealthSimple has created a number of new financia
 
 WealthSimple uses both a mobile phone app and a web platform for it's products and service offerings. According to StackShare, they implement the mobile app using a platform called React Native and the website is built with React. However, there are many other technologies used in the creation of their products and an image has been included to display the plethora of technologies used. 
 
-Wealth Simple Tech Stack, from StackShare: 
+Wealth Simple Tech Stack, from StackShare: <sup>[9](#myendnote9)</sup> 
 
 [![WealthCoinTechStack](/images/StackShareWealthSimple.png)](https://stackshare.io/wealthsimple/wealthsimple)
 
@@ -133,7 +133,7 @@ While this new cryptocurrency would have start up costs associated with it, I wo
 <a name="myendnote6">6</a>: [CrunchBase, Company Financials](https://www.crunchbase.com/organization/wealthsimple/company_financials) <br/>
 <a name="myendnote7">7</a>: [WealthSimple, Culture Manual](https://www.wealthsimple.com/en-ca/magazine/culture-manual) <br/>
 <a name="myendnote8">8</a>: [Investopedia, WealthSimple Review](https://www.investopedia.com/wealthsimple-review-4684946)<br/>
-<a name="myendnote9">9</a>: [Endnote9 content goes here]() <br/>
+<a name="myendnote9">9</a>: [StackShare Profile, WealthSimple](https://stackshare.io/wealthsimple/wealthsimple) <br/>
 <a name="myendnote10">10</a>: [BNN Bloomberg news article](https://www.bnnbloomberg.ca/wealthsimple-cash-becomes-first-canadian-service-integrated-into-twitter-s-tip-jar-1.1641843) <br/>
 <a name="myendnote11">11</a>: [Medium.com BlockChain article](https://medium.com/duomly-blockchain-online-courses/which-programming-language-is-the-best-to-be-a-blockchain-developer-2cb288e14765)  <br/>
 
