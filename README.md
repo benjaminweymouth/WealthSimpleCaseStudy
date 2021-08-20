@@ -18,9 +18,9 @@ This analysis seeks to deconstruct some of the key features, trends and activiti
 
 The company under analysis for this report is named WealthSimple. The rationale for selecting this company is because in an economic era filled with traditional systems, WealthSimple provides a unique alternative for wealth accummulation. This analysis is a concise overview of the origins, activities and other factors that have lead to the rise of a new power in the financial industry: WealthSimple. 
 
-WealthSimple was founded in 2014, and since then has grown to provide financial services relating to trading, investments, cryptocurrency, portfolio management and tax filing. <sup>[1](#myfootnote1)</sup>
+WealthSimple was founded in 2014, and since then has grown to provide financial services relating to trading, investments, cryptocurrency, portfolio management and tax filing. <sup>[1](#myendnote1)</sup>
 
-WealthSimple was founded in 2014. It began in the founders apartment with the first 4 employees (reference to WealthSimple website here https://www.wealthsimple.com/en-ca/magazine/culture-manual) "since the very beginning of the company in 2014 when there were just four of us working together out of Wealthsimple CEO Mike Katchen’s apartment."
+WealthSimple was founded in 2014. It began in the founders apartment with the first 4 employees (reference to WealthSimple website here https://www.wealthsimple.com/en-ca/magazine/culture-manual) "since the very beginning of the company in 2014 when there were just four of us working together out of Wealthsimple CEO Mike Katchen’s apartment." <sup>[2](#myendnote1)</sup>
 
 * Who are the founders of the company?
 
@@ -53,7 +53,7 @@ https://www.newswire.ca/news-releases/wealthsimple-funding-announcement-q2-2021-
 
 Their specific problem, as stated is to (use mission statement website quote here.) 
 
-> “Mission statement copy paste here ” <sup>[2](#myfootnote2)</sup>
+> “Mission statement copy paste here ” <sup>[3](#myendnote2)</sup>
 
 
 In order to achieve that goal, they provide five service offerings: 
@@ -106,7 +106,7 @@ https://learning.oreilly.com/library/view/investing-for-canadians/9781119736653/
 
 -for competitors, use that Craft Website
 
--FinTechNews holds that while WealthSimple might be Canada's largest robo-advisor, other incumbants, including large Canadian banks have added robo-advisors to their product and service offerings. <sup>[1](#myfootnote1)</sup>
+-FinTechNews holds that while WealthSimple might be Canada's largest robo-advisor, other incumbants, including large Canadian banks have added robo-advisors to their product and service offerings. <sup>[1](#myendnote1)</sup>
 
 
 ## Results
@@ -161,14 +161,14 @@ https://www.cbinsights.com/company/wealthsimple
 * Why are these technologies appropriate for your solution?
 
 ## Endnotes
-<a name="myfootnote1">1</a>: Footnote content goes here <br/>
-<a name="myfootnote2">2</a>: Quote from Mission statement <br/>
-<a name="myfootnote3">3</a>: Quote from Mission statement <br/>
-<a name="myfootnote4">4</a>: Quote from Mission statement <br/>
-<a name="myfootnote5">5</a>: Quote from Mission statement <br/>
-<a name="myfootnote6">6</a>: Quote from Mission statement <br/>
-<a name="myfootnote7">7</a>: Quote from Mission statement <br/>
-<a name="myfootnote8">8</a>: Quote from Mission statement <br/>
+<a name="myendnote1">1</a>: Footnote content goes here <br/>
+<a name="myendnote2">2</a>: Quote from Mission statement <br/>
+<a name="myendnote3">3</a>: Quote from Mission statement <br/>
+<a name="myendnote4">4</a>: Quote from Mission statement <br/>
+<a name="myendnote5">5</a>: Quote from Mission statement <br/>
+<a name="myendnote6">6</a>: Quote from Mission statement <br/>
+<a name="myendnote7">7</a>: Quote from Mission statement <br/>
+<a name="myendnote8">8</a>: Quote from Mission statement <br/>
 
 ## References 
 
