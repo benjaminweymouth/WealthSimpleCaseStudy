@@ -45,7 +45,7 @@ In order to achieve that goal, they provide five service offerings:
 
 These products and services are geared towards the millenial audience, who may have some finances invested in traditional banks, but have not locked in their savings entirely. This way, WealthSimple would be able to capitalize on that amount and disrupt the traditional investment process. 
 
-In order to acheive this goal, WealthSimple has created a number of new financial products and services that set them apart in the fintech landscape. In terms of unique products, WealthSimple offers a social responsible ETF, Halal financiing and a fully-insured cryptocurrency exchange. a crypto exchange. 
+In order to acheive this goal, WealthSimple has created a number of new financial products and services that set them apart in the fintech landscape. In terms of unique products, WealthSimple offers a social responsible ETF, Halal financiing and a fully-insured cryptocurrency exchange. a crypto exchange. <sup>[8](#myendnote8)</sup>
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -134,7 +134,7 @@ While this new cryptocurrency would have start up costs associated with it, I wo
 <a name="myendnote5">5</a>: CrunchBase <br/>
 <a name="myendnote6">6</a>: CrunchBase, Company Financials <br/>
 <a name="myendnote7">7</a>: WealthSimple, Culture Manual <br/>
-<a name="myendnote8">8</a>: Endnote content goes here <br/>
+<a name="myendnote8">8</a>: Investopedia, WealthSimple Review<br/>
 <a name="myendnote9">9</a>: Endnote9 content goes here <br/>
 <a name="myendnote10">10</a>: BNN Bloomberg news article <br/>
 <a name="myendnote11">11</a>: Medium.com BlockChain article  <br/>
