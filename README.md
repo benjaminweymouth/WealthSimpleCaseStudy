@@ -35,17 +35,19 @@ The WealthSimple creed has been established and it is possible to consider wheth
 
 In order to achieve that goal, they provide five service offerings: 
 
-    * WealthSimple Invest: 
-    * WealthSimple Trade
-    * WealthSimple Crypto
-    * WealthSimple Cash
-    * WealthSimple Tax
+    * : 
+    * 
+    * 
+    * 
+    * 
     
 | Service       | Description   | 
 | ------------- |:-------------:| 
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |  
-| zebra stripes | are neat      | 
+| WealthSimple Invest      | right-aligned | 
+| WealthSimple Trade      | centered      |  
+| WealthSimple Crypto | are neat      | 
+| WealthSimple Cash | are neat      | 
+| WealthSimple Tax | are neat      | 
 
  
 
