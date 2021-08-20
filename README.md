@@ -55,7 +55,7 @@ Wealth Simple Tech Stack, from StackShare: <sup>[9](#myendnote9)</sup>
 
 ## Landscape
 
-WealthSimple inhabits a growing domain of digital banks who specialize in online trading, cryptocurrency, robo-advising and peer-to-peer payments. This is a novel product portfolio because many firms will only specialize in one or more of these financial products. Thus, WealthSimple's industrial categorization crosses boundaries and places it within a unique market position. 
+WealthSimple inhabits a growing economic domain of digital banks who specialize in online trading, cryptocurrency, robo-advising and peer-to-peer payments. This is a novel product portfolio because many firms will only specialize in one or more of these financial products. Thus, WealthSimple's industrial categorization crosses boundaries and places it within a unique market position. 
 
 The Canadian FinTech market has seen many changes over the last decade. One notable trend is the introduction of new financial disruptors, like WealthSimple, who enter a field once previously dominated by established banks and financial institutions. 
 
