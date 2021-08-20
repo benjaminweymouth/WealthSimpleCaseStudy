@@ -16,11 +16,11 @@ This analysis seeks to deconstruct some of the key features, trends and activiti
 
 ## Overview and Origin
 
-The company under analysis for this report is named WealthSimple. The rationale for selecting this company is because in an economic era filled with traditional banking systems, WealthSimple provides a unique alternative for wealth accummulation. This analysis is a concise overview of the origins, activities and other factors that have lead to the rise of a new power in the financial industry: WealthSimple. 
+The rationale for selecting WealthSimple as a case study is because in an economic era filled with traditional banking systems, WealthSimple provides a unique alternative for wealth accummulation. This analysis is a concise overview of the origins, activities and other factors that have lead to the rise of a new power in the financial industry: WealthSimple. 
 
 WealthSimple was founded in 2014, and since then has grown to provide financial services relating to trading, investments, cryptocurrency, portfolio management and tax filing. <sup>[1](#myendnote1)</sup>
 
-WealthSimple was founded in 2014. It began in the founders apartment with the first 4 employees "since the very beginning of the company in 2014 when there were just four of us working together out of Wealthsimple CEO Mike Katchen’s apartment." <sup>[2](#myendnote1)</sup>
+It began in the founders apartment with the first 4 employees "since the very beginning of the company in 2014 when there were just four of us working together out of Wealthsimple CEO Mike Katchen’s apartment." <sup>[2](#myendnote1)</sup>
 
 * Who are the founders of the company?
 
