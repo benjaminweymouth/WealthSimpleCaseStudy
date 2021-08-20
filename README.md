@@ -171,9 +171,9 @@ Perspective. (2018, February 15). *Wealthsimple’s connection to Huron Universi
 
 ‌Wikipedia Contributors. (2021, August 13). Wealthsimple. Retrieved August 20, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Wealthsimple
 
-‌https://stackshare.io/wealthsimple/wealthsimple
+StackShare. (2021). *Wealthsimple - Wealthsimple Tech Stack.*  Retrieved August 20, 2021, from StackShare website: https://stackshare.io/wealthsimple/wealthsimple
 
-https://fintechnews.ch/fintech/fintech-canada-report/19783/
+FinTech Switzerland. (2018). Fintech Canada Report, Industry Set to Witness Strong Grow. Retrieved 20 August 2021, from https://fintechnews.ch/fintech/fintech-canada-report/19783/
 
 
 
