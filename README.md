@@ -8,7 +8,7 @@ This analysis seeks to deconstruct some of the key features, trends and activiti
 
 ### Table of Contents ### 
 -----------------------------
-1. [Overview and Origin](#Overview,-Origins-and-Funding) 
+1. [Overview and Origin](#overview,-origins-and-funding) 
 2. [Business Activities](#business-activities) 
 3. [Landscape](#landscape) 
 4. [Results](#results) 
