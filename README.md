@@ -70,6 +70,8 @@ One can conclude then, from the structure of the industry, that WealthSimple wil
 
 * What has been the business impact of this company so far?
 
+In terms of results, WealthSimple has approximately "$9.7 billion in assets under management", which are assets that would otherwise be invested in other fintech firms, or in established banks. In that 
+
 The results and impact of WealthSimple on the FinTech market have been impressive. However, the Crunchbase website also indicates that in 2021 WealthSimple divested all their U.S. clients in order to focus on the Canadian retail market. This loss of a client base may indicate a downturn in viability for the company. It is yet to be seen as to whether or not Canadian regulators will initiate further restrictions on the cryptocurrency market. Thus, at the present time, it seems on balance that CrunchBase is part of a highly profitable, yet highly emerging market. 
 
 -how much money are they resposible for
