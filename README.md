@@ -43,17 +43,9 @@ In order to achieve that goal, they provide five service offerings:
 | WealthSimple Cash | A peer-to-peer payment platform     | 
 | WealthSimple Tax | A Tax Return platform for analysis and filing      | 
 
- 
+These products and services are geared towards the millenial audience, who may have some finances invested in traditional banks, but have not locked in their savings entirely. This way, WealthSimple would be able to capitalize on that amount and disrupt the traditional investment process. 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-
-
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
--social responsible ETF (link to description) 
--offering Halal financiing? Would need to define / describe/
--one of a few companies that offers a crypto exchange
+In order to acheive this goal, WealthSimple has created a number of new financial products and services that set them apart in the fintech landscape. In terms of unique products, WealthSimple offers a social responsible ETF, Halal financiing and a fully-insured cryptocurrency exchange. a crypto exchange. 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -165,14 +157,15 @@ Perspective. (2018, February 15). *Wealthsimple’s connection to Huron Universi
 
 ‌Newswire. (2020, October 14). *Wealthsimple announces CAD $114 million investment led by TCV to transform financial services in Canada.* Retrieved August 20, 2021, from Newswire.ca website: https://www.newswire.ca/news-releases/wealthsimple-announces-cad-114-million-investment-led-by-tcv-to-transform-financial-services-in-canada-889996456.html
 
-‌Wikipedia Contributors. (2021, August 13). Wealthsimple. Retrieved August 20, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Wealthsimple
+‌Wikipedia Contributors. (2021, August 13). *Wealthsimple.* Retrieved August 20, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Wealthsimple
 
 StackShare. (2021). *Wealthsimple - Wealthsimple Tech Stack.*  Retrieved August 20, 2021, from StackShare website: https://stackshare.io/wealthsimple/wealthsimple
 
-FinTech Switzerland. (2018). Fintech Canada Report, Industry Set to Witness Strong Grow. Retrieved 20 August 2021, from https://fintechnews.ch/fintech/fintech-canada-report/19783/
+FinTech Switzerland. (2018). *Fintech Canada Report, Industry Set to Witness Strong Growth.* Retrieved 20 August 2021, from https://fintechnews.ch/fintech/fintech-canada-report/19783/
 
 The Canadian Press. (2021, August 19). *Wealthsimple Cash becomes first Canadian service integrated into Twitter’s Tip Jar*  - BNN Bloomberg. Retrieved August 20, 2021, from BNN website: https://www.bnnbloomberg.ca/wealthsimple-cash-becomes-first-canadian-service-integrated-into-twitter-s-tip-jar-1.1641843
 
+Radoslaw Fabisiak. (2018, August 14). *Which programming language is the best to be a blockchain developer.* Retrieved August 20, 2021, from Medium website: https://medium.com/duomly-blockchain-online-courses/which-programming-language-is-the-best-to-be-a-blockchain-developer-2cb288e14765
 
-Radoslaw Fabisiak. (2018, August 14). Which programming language is the best to be a blockchain developer. Retrieved August 20, 2021, from Medium website: https://medium.com/duomly-blockchain-online-courses/which-programming-language-is-the-best-to-be-a-blockchain-developer-2cb288e14765
+Investopedia.(2021). *Wealthsimple Review.*  Retrieved August 20, 2021, from Investopedia website: https://www.investopedia.com/wealthsimple-review-4684946
 
