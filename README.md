@@ -124,17 +124,11 @@ NOTE: Use Michael Porter's book Competitive Strategy here. Rank financial statem
 
 I recommend that WealthSimple develop a new cryptocurrency, and I propose that it be called "WealthCoin." In the age of cryptocurrency, currency is distributed, autonomous and can transcend political or geographical representations. Whether it is traditional currency or not, the main idea of currency is a placeholder for value to facilitate some exchange between two parties. WealthSimple could capitalize on the popularity of cryptocurrency and offer a digital currency specifically for it's Canadian customers. 
 
-The idea of a new cryptocurrency may not seem novel, but other avenues of product diversity may be even more risky. For example, a foray into hardware during an age of semiconductor scarcity is ill-advised. While cryptocurrencies are abundant, WealthSimple has an exiting customer base that they could market this new "WealthCoin" to. If they develop "WealthCoin", they could file for new patents, and create new innovation in the Canadian FinTech industry. They could engage in more collaborations with other companies, projects like the work they are doing with Twitter to integrate their WealthSimple Payment app into the Twitter system architecture. <sup>[10](#myendnote1)</sup>(reference WealthSimple Cash Twitter BNN Bloomberg news article here)
+The idea of a new cryptocurrency may not seem novel, but other avenues of product diversity may be even more risky. For example, a foray into hardware during an age of semiconductor scarcity is ill-advised. While cryptocurrencies are abundant, WealthSimple has an exiting customer base that they could market this new "WealthCoin" to. If they develop "WealthCoin", they could file for new patents, and create new innovation in the Canadian FinTech industry. They could engage in more collaborations with other companies, projects like the work they are doing with Twitter to integrate their WealthSimple Payment app into the Twitter system architecture. <sup>[10](#myendnote10)</sup> 
 
-WealthSimple Cash becomes first Canadian service integrated into Twitter’s Tip Jar
+In order to implement a new "WealthCoin" cryptocurrency, WealthSimple would need to employ a number of technologies, similar to the stack employed by Ethereum. Therefore, they would need to implement a data structure that holds a ledger such as BlockChain library, Smart Contracts, cryptography and a distributed peer-to-peer platform. In terms of the actual code, there are many ways to code a BlockChain, such as in C#, GoLang, Python or Rust. <sup>[11](#myendnote11)</sup> 
 
-https://www.cbinsights.com/company/wealthsimple
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
 
 ## Endnotes
 <a name="myendnote1">1</a>: NewsWire article, May 2020. <br/>
@@ -147,6 +141,7 @@ https://www.cbinsights.com/company/wealthsimple
 <a name="myendnote8">8</a>: Endnote content goes here <br/>
 <a name="myendnote9">9</a>: Endnote9 content goes here <br/>
 <a name="myendnote10">10</a>: BNN Bloomberg news article <br/>
+<a name="myendnote11">11</a>: Medium.com BlockChain article  <br/>
 
 ## References 
 
@@ -176,4 +171,6 @@ FinTech Switzerland. (2018). Fintech Canada Report, Industry Set to Witness Stro
 
 The Canadian Press. (2021, August 19). *Wealthsimple Cash becomes first Canadian service integrated into Twitter’s Tip Jar*  - BNN Bloomberg. Retrieved August 20, 2021, from BNN website: https://www.bnnbloomberg.ca/wealthsimple-cash-becomes-first-canadian-service-integrated-into-twitter-s-tip-jar-1.1641843
 
+
+Radoslaw Fabisiak. (2018, August 14). Which programming language is the best to be a blockchain developer. Retrieved August 20, 2021, from Medium website: https://medium.com/duomly-blockchain-online-courses/which-programming-language-is-the-best-to-be-a-blockchain-developer-2cb288e14765
 
