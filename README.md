@@ -98,7 +98,7 @@ In order to implement a new "WealthCoin" cryptocurrency, WealthSimple would need
 
 While this new cryptocurrency would have start up costs associated with it, I would recommend using open-source technologies like Python whenever possible. This would reduce the likelihood of litigation if using a proprietary programming language like C# or Java. Some costs are unavoidable, when scaling up a technology. But the main idea in selecting this type of technology stack would be to insulate the company from any competitors or future costs. 
 
-In conclusion, it is clear that WealthSimple is revolutionary, new and highly disruptive to the established financial services sector. However, their goal of universal wealth is not currently achievable, since their services are only available to Canadians. Since the FinTech industry is currently undergoing rapid and sweeping changes, futher analysis is prudent in order to record the meteoric rise of WealthSimple. 
+In conclusion, it is clear that WealthSimple is revolutionary, new and highly disruptive to the established financial services sector. However, their goal of universal wealth is not currently achievable, since their services are only available to Canadians. Since the FinTech industry is currently undergoing rapid and sweeping changes, further analysis is prudent in order to record the meteoric rise of WealthSimple. 
 
 ## Endnotes
 <a name="myendnote1">1</a>: [NewsWire article, May 2020.](https://www.newswire.ca/news-releases/wealthsimple-announces-cad-114-million-investment-led-by-tcv-to-transform-financial-services-in-canada-889996456.html) <br/>
