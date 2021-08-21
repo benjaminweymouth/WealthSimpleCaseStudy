@@ -114,7 +114,7 @@ In conclusion, it is clear that WealthSimple is revolutionary, new and highly di
 <a name="myendnote11">11</a>: [Financial Post](https://financialpost.com/investing/wealthsimple-valuation-should-be-a-wake-up-call-for-big-banks-and-traditional-money-managers) <br/>
 <a name="myendnote12">12</a>: [LinkedIn Company Insights](https://www.linkedin.com/company/wealthsimple/) <br/>
 <a name="myendnote13">13</a>: [Yahoo Financial](https://finance.yahoo.com/quote/WSRI.TO/history?period1=1597974298&period2=1629510298&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true) <br/>
-<a name="myendnote14">14</a>: [Owler](https://www.owler.com/company/wealthsimple) <br/>
+<a name="myendnote14">14</a>: [Owler, WealthSimple Profile](https://www.owler.com/company/wealthsimple) <br/>
 <a name="myendnote15">15</a>: [Craft, WealthSimple Competitors](https://craft.co/wealthsimple/competitors) <br/>
 <a name="myendnote16">16</a>: [Porter, Competitive Strategy pg 70-75](https://play.google.com/books/reader?id=Hn1kNE0OcGsC&pg=GBS.PT15&printsec=frontcover) <br/>
 <a name="myendnote17">17</a>: [BNN Bloomberg news article](https://www.bnnbloomberg.ca/wealthsimple-cash-becomes-first-canadian-service-integrated-into-twitter-s-tip-jar-1.1641843) <br/>
