@@ -16,9 +16,9 @@ This analysis seeks to deconstruct some of the key features, trends and activiti
 
 ## Overview and Origin
 
-The rationale for selecting WealthSimple as a case study is because in an economic era filled with traditional banking systems, WealthSimple provides a unique alternative for wealth accumulation. This analysis is a concise overview of the origins, activities and other factors that have led to the rise of a new power in the financial industry: WealthSimple. 
+The rationale for selecting WealthSimple as a case study is because in an economic era filled with traditional banking systems, WealthSimple provides a unique alternative for wealth accumulation. WealthSimple was founded in 2014, and provides financial services relating to trading, investments, cryptocurrencies, portfolio management and tax filing. <sup>[1](#myendnote1)</sup> This analysis is a concise overview of the factors that have led to the rise of a new power in the financial industry: WealthSimple. 
 
-WealthSimple was founded in 2014, and provides financial services relating to trading, investments, cryptocurrencies, portfolio management and tax filing. <sup>[1](#myendnote1)</sup> The WealthSimple website describes a humble origin story as the founders "working together out of WealthSimple CEO Mike Katchen’s apartment." <sup>[2](#myendnote1)</sup> There were three founders of the company: Michael Katchen, Brett Huneycutt and Rudy Adler. 
+The WealthSimple website describes a humble origin story as the founders "working together out of WealthSimple CEO Mike Katchen’s apartment." <sup>[2](#myendnote1)</sup> There were three founders of the company: Michael Katchen, Brett Huneycutt and Rudy Adler. 
 
 Each of the three founders had relevant experience in the finance industry, so the idea of a new fintech company was familiar corporate territory. From there, they grew into the space, hiring different employees from estabilshed banks and other companies. <sup>[3](#myendnote3)</sup> The journey to become a successful fintech firm was not an easy one, and one report holds that "from February to August 2014, they worked days, nights and weekends to hire employees and raise millions of dollars in capital investments." <sup>[4](#myendnote4)</sup>
  
