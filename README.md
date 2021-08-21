@@ -78,7 +78,7 @@ The success or failure of a relatively new company in an emerging market like Fi
 | ------------- |:-------------:| 
 | Market Valuation     |  $5 billion (up from $1.4 billion in October)<sup>[11](#myendnote11)</sup> | 
 | Number of employees      |  788 employees (up 39% in 6 months) <sup>[12](#myendnote12)</sup>   |  
-| WealthSimple's ETF Performance | +0.61% increase  <sup>[13](#myendnote13)</sup>     | 
+| WealthSimple's ETF Performance | $33.94 USD (a +0.61% increase)  <sup>[13](#myendnote13)</sup>     | 
 | Annual revenue | $33M  <sup>[14](#myendnote14)</sup>   | 
 
 One conclusion that we can draw is that WealthSimple is increasing in value, according to these metrics. In this independant analysis, it's market valuation seems to be increasing rapidly, along with it's number of employees. The ETF value is also increasing, which means that the market analysis that WealthSimple provides should give it's customers some gains and economic utility. However, it may also be prudent to analyze how WealthSimple is faring in comparison to the market competitors and incumbants. 
