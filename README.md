@@ -43,7 +43,7 @@ This goals seems to be rooted in a democratic sense, which highlights the univer
 | WealthSimple Cash | A peer-to-peer payment platform     | 
 | WealthSimple Tax | A tax return platform for analysis and filing      | 
 
-These products and services are geared towards the millenial audience, who may have some finances invested in traditional banks, but have not locked in their savings entirely. This way, WealthSimple capitalizes on younger and middle-aged investors to disrupt the traditional investment process. 
+These products and services are geared towards the millenial audience, who may have some finances invested in traditional banks, but have not locked in their savings entirely. This way, WealthSimple capitalizes on younger and middle-aged investors to disrupt the traditional investment process. If more Canadians participate in the financial landscape that WealthSimple has pioneered, the entire financial system will continue to evolve and expand. 
 
 In order to disrupt the status quo, WealthSimple has created a number of new financial products and services that set them apart in the FinTech landscape. In terms of unique products, WealthSimple offers a social responsible ETF, Halal-compliant financing and a fully-insured cryptocurrency exchange. <sup>[8](#myendnote8)</sup>
 
