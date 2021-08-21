@@ -77,20 +77,10 @@ The success or failure of a relatively new company in an emerging market like Fi
 | Metric      | Value / Change  | 
 | ------------- |:-------------:| 
 | Market Valuation     |  $5 billion (up from $1.4 billion in October)<sup>[11](#myendnote11)</sup> | 
-| number of employees      |     |  
-| ETF Performance |      | 
+| number of employees      |  788 employees (up 39% in 6 months) <sup>[12](#myendnote12)</sup>   |  
+| WealthSimple's ETF Performance | +0.61% increase     | 
 | annual revenue | $33M    | 
 
-
--Net profit margin: Currently WealthSimple is 
-
--price-to-earnings ratio.
-
--market valuation (use CrunchBase compared to competitors, analyse valuation.) 
-
--number of employees (use CrunchBase compared to competitors, analyse valuation.) 
-
--ETF Performance
 
 the conclusion that we can draw is that WealthSimple is doing well in it's own right, and it achieving a
 
@@ -174,7 +164,9 @@ Owler. *Wealthsimple Top Competitors or Alternatives.* (2013). Retrieved August 
 
 Pelletier, M. (2021, May 7). Wealthsimple valuation should be a wake-up call for big banks and traditional money managers. Retrieved August 21, 2021, from financialpost website: https://financialpost.com/investing/wealthsimple-valuation-should-be-a-wake-up-call-for-big-banks-and-traditional-money-managers
 
-‌
+LinkedIn. (2021). *LinkedIn Insights on WealthSimple* Retrieved August 21, 2021, from Linkedin.com website: https://www.linkedin.com/company/wealthsimple/
+
+
 
 
 
