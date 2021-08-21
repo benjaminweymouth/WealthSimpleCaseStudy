@@ -83,9 +83,7 @@ The success or failure of a relatively new company in an emerging market like Fi
 
 One conclusion that we can draw is that WealthSimple is doing well in it's own right. In an independant analysis, it's market valuation seems to be increasing rapidly, along with it's number of employees. The ETF is also increasing, which means that the market analysis that WealthSimple provides should give it's customers some gains and economic utility. However, it may also be prudent to analyze how WealthSimple is faring in comparison to the market competitors and incumbants. 
 
-* How is your company performing relative to competitors in the same domain?
-
-According to the Financial Post, the WealthSimple valuation in May 2021 should be enough for it's competition to be concerned.<sup>[15](#myendnote15)</sup>  According to the website Craft, <sup>[15](#myendnote15)</sup> 
+According to the Financial Post, the WealthSimple valuation in May 2021 should be enough for it's competition to be concerned.<sup>[11](#myendnote11)</sup>  According to the website Craft, WealthSimple fares well in terms of employee growth, assets under management, customers, and their latest funding round. <sup>[15](#myendnote15)</sup> 
 
 https://financialpost.com/investing/wealthsimple-valuation-should-be-a-wake-up-call-for-big-banks-and-traditional-money-managers
 
@@ -127,7 +125,7 @@ While this new cryptocurrency would have start up costs associated with it, I wo
 <a name="myendnote12">12</a>: [LinkedIn Company Insights](https://www.linkedin.com/company/wealthsimple/) <br/>
 <a name="myendnote13">13</a>: [Yahoo Financial](https://finance.yahoo.com/quote/WSRI.TO/history?period1=1597974298&period2=1629510298&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true) <br/>
 <a name="myendnote14">14</a>: [Owler](https://www.owler.com/company/wealthsimple) <br/>
-<a name="myendnote15">15</a>: [EndNote15]() <br/>
+<a name="myendnote15">15</a>: [Craft, WealthSimple Competitors](https://craft.co/wealthsimple/competitors) <br/>
 <a name="myendnote16">16</a>: [EndNote16]() <br/>
 <a name="myendnote17">17</a>: [BNN Bloomberg news article](https://www.bnnbloomberg.ca/wealthsimple-cash-becomes-first-canadian-service-integrated-into-twitter-s-tip-jar-1.1641843) <br/>
 <a name="myendnote18">18</a>: [Medium.com BlockChain article](https://medium.com/duomly-blockchain-online-courses/which-programming-language-is-the-best-to-be-a-blockchain-developer-2cb288e14765)  <br/>
