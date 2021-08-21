@@ -22,7 +22,7 @@ The origins of this relatively new FinTech firm are characterized by hard work a
 
 There were three founders of the company: Michael Katchen, Brett Huneycutt and Rudy Adler.<sup>[3](#myendnote3)</sup>  Each of the three founders had relevant experience in the finance industry, so the idea of a new FinTech company was familiar corporate territory. They amalgamated their work experiences, and diversified their workforce by hiring different employees from established banks and other companies. <sup>[3](#myendnote3)</sup> 
  
-Since 2014, WealthSimple has raised $900.4M in funding. <sup>[5](#myendnote5)</sup> They have achieved this amount of funding from a variety of sources. CrunchBase lists their principal seed investors as a company called Power Financial Corporation, who funded the company during their Series A, B and C rounds. Other investors in WealthSimple include Ryan Reynolds, Drake and the Michael J. Fox Foundation.<sup>[6](#myendnote6)</sup> This is a substantial amount and would indicate that the firm is desirable as an investment, and a suitable choice for further business analysis.  
+Since 2014, WealthSimple has raised $900.4M in funding. <sup>[5](#myendnote5)</sup> They have achieved this amount of funding from a variety of sources. CrunchBase lists their principal seed investors as a company called Power Financial Corporation, who funded the company during their Series A, B and C rounds. <sup>[5](#myendnote5)</sup>Other investors in WealthSimple include Ryan Reynolds, Drake and the Michael J. Fox Foundation.<sup>[6](#myendnote6)</sup> This is a substantial amount and would indicate that the firm is desirable as an investment, and a suitable choice for further business analysis.  
 
 ## Business Activities:
 
