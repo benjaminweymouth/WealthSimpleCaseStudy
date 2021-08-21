@@ -74,7 +74,15 @@ In terms of results, WealthSimple has approximately "$9.7 billion in assets unde
 
 The results and impact of WealthSimple on the FinTech market have been impressive. However, the Crunchbase website also indicates that in 2021 WealthSimple divested all their U.S. clients in order to focus on the Canadian retail market. This loss of a client base may indicate a downturn in viability for the company. It is yet to be seen as to whether or not Canadian regulators will initiate further restrictions on the cryptocurrency market. Thus, at the present time, it seems on balance that WealthSimple is part of a highly profitable, yet highly emerging market. A closer analysis with some specific metrics in the next section will allow for a quantitative analysis to be performed. 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+The success or failure of a relatively new company in an emerging market like FinTech can be determined by analysing some core metrics. These metrics may include a market valuation, the number of employees, ETF performance or the company's annual revenue. Here is a listing of some of these core metrics for WealthSimple: 
+
+| Metric      | Value / Change  | 
+| ------------- |:-------------:| 
+| Market Valuation     | An investment tool | 
+| number of employees      | A commission-free stock trading platform      |  
+| ETF Performance | A Cryptocurrency Exchange with insurance coverage      | 
+| annual revenue | A peer-to-peer payment platform     | 
+
 
 -Net profit margin: Currently WealthSimple is 
 
@@ -85,6 +93,8 @@ The results and impact of WealthSimple on the FinTech market have been impressiv
 -number of employees (use CrunchBase compared to competitors, analyse valuation.) 
 
 -ETF Performance
+
+the conclusion that we can draw is that WealthSimple is 
 
 * How is your company performing relative to competitors in the same domain?
 
