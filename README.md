@@ -85,17 +85,7 @@ One conclusion that we can draw is that WealthSimple is doing well in it's own r
 
 According to the Financial Post, the WealthSimple valuation in May 2021 should be enough for it's competition to be concerned.<sup>[11](#myendnote11)</sup>  According to the website Craft, WealthSimple fares well in terms of employee growth, assets under management, customers, and their latest funding round. <sup>[15](#myendnote15)</sup> 
 
-https://financialpost.com/investing/wealthsimple-valuation-should-be-a-wake-up-call-for-big-banks-and-traditional-money-managers
-
-https://craft.co/wealthsimple
-
-https://www.owler.com/company/wealthsimple
-
-HERE WE DO THE RATIO COMPARISON  (use investopedia link)
-https://www.investopedia.com/ask/answers/032315/how-does-ratio-analysis-make-it-easier-compare-different-companies.asp
-
-NOTE: Can use Michael Porter's Five Forces Trend model here. Apply to the FinTech Domain. 
-NOTE: Use Michael Porter's book Competitive Strategy here. Rank financial statements, competitors financial analysis, product line analysis, fees analysis, market condition comparison. (Porter pg 70-75)
+One complication in terms of the competitive landscape is the idea that FinTech is, as Michael Porter calls is an emerging market. This means that the rules of the industry are not yet set, that new corporate players may enter the field, and that economic forces have not yet stabilized. <sup>[15](#myendnote15)</sup> Therefore, the metrics that have been displayed here and the overwhelming economic progress that WealthSimple has made over the past 7 years may not be sustainable. In the next section, some recommendations will be made in order for WealthSimple to maintain their competitive advantage. 
 
 ## Recommendations
 ![WealthCoinPrototypeLogo](/images/WealthCoin.png)
@@ -126,7 +116,7 @@ While this new cryptocurrency would have start up costs associated with it, I wo
 <a name="myendnote13">13</a>: [Yahoo Financial](https://finance.yahoo.com/quote/WSRI.TO/history?period1=1597974298&period2=1629510298&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true) <br/>
 <a name="myendnote14">14</a>: [Owler](https://www.owler.com/company/wealthsimple) <br/>
 <a name="myendnote15">15</a>: [Craft, WealthSimple Competitors](https://craft.co/wealthsimple/competitors) <br/>
-<a name="myendnote16">16</a>: [EndNote16]() <br/>
+<a name="myendnote16">16</a>: [Porter, Competitive Strategy pg 70-75](https://play.google.com/books/reader?id=Hn1kNE0OcGsC&pg=GBS.PT15&printsec=frontcover) <br/>
 <a name="myendnote17">17</a>: [BNN Bloomberg news article](https://www.bnnbloomberg.ca/wealthsimple-cash-becomes-first-canadian-service-integrated-into-twitter-s-tip-jar-1.1641843) <br/>
 <a name="myendnote18">18</a>: [Medium.com BlockChain article](https://medium.com/duomly-blockchain-online-courses/which-programming-language-is-the-best-to-be-a-blockchain-developer-2cb288e14765)  <br/>
 
