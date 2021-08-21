@@ -59,7 +59,7 @@ WealthSimple inhabits a growing economic domain of digital banks who specialize 
 
 The Canadian FinTech market has seen many changes over the last decade. One notable trend is the introduction of new financial disruptors, like WealthSimple, who enter a field once previously dominated by established banks and financial institutions. 
 
-The other major Fintech firms who inhabit this disruptive space in Canada include QuesTrade, QTrade and RobinHood. However, while QuesTrade and QTrade are available in Canada, RobinHood is not available to Canadians at this time in 2021. Therefore, WealthSimple has a strategic advantage over comparable firms from an international perspective.  
+The other major Fintech firms who inhabit this disruptive space include QuesTrade, QTrade and RobinHood. However, while QuesTrade and QTrade are available in Canada, RobinHood is not available to Canadians at this time in 2021. Therefore, WealthSimple has a strategic advantage over comparable firms from an international perspective.  
 
 However, the competitive landscape is not perfectly clear for WealthSimple. FinTechNews holds that while WealthSimple might be Canada's largest robo-advisor, other incumbents, including large Canadian banks, have added robo-advisors to their product and service offerings. <sup>[10](#myendnote10)</sup> These large economic rivals include TD WebBroker, CIBC Investor's Edge and RBC Direct Investing. 
 
