@@ -26,14 +26,14 @@ Since 2014, WealthSimple has raised $900.4M in funding. <sup>[5](#myendnote5)</s
 
 ## Business Activities:
 
-WealthSimple is in the business of creating wealth building opportunities for persons who are willing to accept the risk of a non-traditional financial company. They offer up a new business model which includes online-only service offerings such as investment, trading, bank accounts and a cryptocurrency exchange. Their business architecture is novel because they do not rely upon brick-and-mortar branches to offer these services. It should be noted that this type of banking is still in it's infancy compared to traditional established in-person banking. 
+WealthSimple is in the business of creating wealth building opportunities for persons who are willing to accept the risk of a non-traditional financial company. They offer up a new business model which includes online-only service offerings such as investment, trading, bank accounts and a cryptocurrency exchange. Their business architecture is novel because they do not rely upon brick-and-mortar branches to offer these services. 
 
 The WealthSimple creed has been established and it is possible to consider whether or not it is a simple or attainable goal. Their main corporate philosophy is as follows: 
 
 > *“The first is our mission. Which is pretty radical — to completely democratize wealth. To see access to financial freedom as a human right for everyone no matter where you come from or how much money you have.”* <sup>[7](#myendnote7)</sup>
 
 
-This goals seems to be rooted in a democratic sense, which highlights the universal nature of WealthSimple's corporate philosophy. However, a deeper analysis is required to verify that thier corporate philosophy matches with their products and service offerings. In order to achieve that goal, they provide five service offerings: 
+This goals seems to be rooted in a democratic sense, which highlights the universal nature of WealthSimple's corporate philosophy. However, a deeper analysis is required to verify that thier corporate philosophy matches with their products and service offerings. It should be noted that this type of banking is still in it's infancy compared to traditional established in-person banking.  In order to achieve that goal, they provide five service offerings: 
 
 | Service       | Description   | 
 | ------------- |:-------------:| 
