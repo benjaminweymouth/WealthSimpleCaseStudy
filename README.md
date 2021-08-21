@@ -33,7 +33,7 @@ The WealthSimple creed has been established and it is possible to consider wheth
 > *“The first is our mission. Which is pretty radical — to completely democratize wealth. To see access to financial freedom as a human right for everyone no matter where you come from or how much money you have.”* <sup>[7](#myendnote7)</sup>
 
 
-In order to achieve that goal, they provide five service offerings: 
+This goals seems to be rooted in a democratic sense, which highlights the universal nature of the corporate philosophy. However, a deeper analysis is required to verify that thier corporate philosophy matches with their products and service offerings. In order to achieve that goal, they provide five service offerings: 
 
 | Service       | Description   | 
 | ------------- |:-------------:| 
