@@ -76,15 +76,15 @@ The results and impact of WealthSimple on the FinTech market have been impressiv
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-Net profit margin
+-Net profit margin: Currently WealthSimple is 
 
-price-to-earnings ratio.
+-price-to-earnings ratio.
 
 -market valuation (use CrunchBase compared to competitors, analyse valuation.) 
 
 -number of employees (use CrunchBase compared to competitors, analyse valuation.) 
 
--
+-ETF Performance
 
 * How is your company performing relative to competitors in the same domain?
 
