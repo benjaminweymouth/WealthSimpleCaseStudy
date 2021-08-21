@@ -63,7 +63,7 @@ The other major Fintech firms who inhabit this disruptive space include QuesTrad
 
 However, the competitive landscape is not perfectly clear for WealthSimple. FinTechNews holds that while WealthSimple might be Canada's largest robo-advisor, other incumbents, including large Canadian banks, have added robo-advisors to their product and service offerings. <sup>[10](#myendnote10)</sup> These large economic rivals include TD WebBroker, CIBC Investor's Edge and RBC Direct Investing. 
 
-One can conclude then, from the structure of the industry, that WealthSimple will face competition both from traditional banks and smaller corporate rivals like QTrade. The upshot of this current industrial structure is that the Canadian FinTech market is not yet saturated with companies like WealthSimple.  
+One can conclude then, from the structure of the industry, that WealthSimple will face competition both from traditional banks and smaller corporate rivals like QTrade. The upshot of this current industrial structure is that the Canadian FinTech market is not yet saturated with smaller companies like WealthSimple.  
 
 
 ## Results
