@@ -78,15 +78,15 @@ The success or failure of a relatively new company in an emerging market like Fi
 | ------------- |:-------------:| 
 | Market Valuation     |  $5 billion (up from $1.4 billion in October)<sup>[11](#myendnote11)</sup> | 
 | number of employees      |  788 employees (up 39% in 6 months) <sup>[12](#myendnote12)</sup>   |  
-| WealthSimple's ETF Performance | +0.61% increase     | 
-| annual revenue | $33M    | 
+| WealthSimple's ETF Performance | +0.61% increase  <sup>[13](#myendnote13)</sup>     | 
+| annual revenue | $33M  <sup>[14](#myendnote14)</sup>   | 
 
 
 the conclusion that we can draw is that WealthSimple is doing well in it's own right, and it achieving a
 
 * How is your company performing relative to competitors in the same domain?
 
-According to the Financial Post, the WealthSimple valuation in May 2021 should be enough for it's competition to be concerned. 
+According to the Financial Post, the WealthSimple valuation in May 2021 should be enough for it's competition to be concerned.<sup>[15](#myendnote15)</sup>  According to the website Craft, <sup>[15](#myendnote15)</sup> 
 
 https://financialpost.com/investing/wealthsimple-valuation-should-be-a-wake-up-call-for-big-banks-and-traditional-money-managers
 
@@ -105,9 +105,9 @@ NOTE: Use Michael Porter's book Competitive Strategy here. Rank financial statem
 
 Given this analysis, it is prudent to suggest that WealthSimple should develop a new cryptocurrency, it is proposed that it should be called "WealthCoin." Since WealthSimple may face international competition, a cryptocurrency may provide it with a competitive advantage. In the age of cryptocurrency, currency is distributed, autonomous and can transcend political or geographical representations. Whether it is traditional currency or not, the main idea of currency is a placeholder for value to facilitate some exchange between two parties. WealthSimple could capitalize on the popularity of cryptocurrency and offer a digital currency specifically for it's Canadian customers. 
 
-The idea of a new cryptocurrency may not seem novel, but other avenues of product diversity may be even more risky. For example, a foray into hardware during an age of semiconductor scarcity is ill-advised. While cryptocurrencies are abundant, WealthSimple has an exiting customer base that they could market this new "WealthCoin" to. If they develop "WealthCoin", they could file for new patents, and create new innovation in the Canadian FinTech industry. They could engage in more collaborations with other companies, projects like the work they are doing with Twitter to integrate their WealthSimple Payment app into the Twitter system architecture. <sup>[12](#myendnote12)</sup> 
+The idea of a new cryptocurrency may not seem novel, but other avenues of product diversity may be even more risky. For example, a foray into hardware during an age of semiconductor scarcity is ill-advised. While cryptocurrencies are abundant, WealthSimple has an exiting customer base that they could market this new "WealthCoin" to. If they develop "WealthCoin", they could file for new patents, and create new innovation in the Canadian FinTech industry. They could engage in more collaborations with other companies, projects like the work they are doing with Twitter to integrate their WealthSimple Payment app into the Twitter system architecture. <sup>[17](#myendnote17)</sup> 
 
-In order to implement a new "WealthCoin" cryptocurrency, WealthSimple would need to employ a number of technologies, similar to the stack employed by Ethereum. Therefore, they would need to implement a data structure that holds a ledger such as BlockChain library, Smart Contracts, cryptography and a distributed peer-to-peer platform. In terms of the actual code, there are many ways to code a BlockChain, such as in C#, GoLang, Python or Rust. <sup>[13](#myendnote13)</sup> 
+In order to implement a new "WealthCoin" cryptocurrency, WealthSimple would need to employ a number of technologies, similar to the stack employed by Ethereum. Therefore, they would need to implement a data structure that holds a ledger such as BlockChain library, Smart Contracts, cryptography and a distributed peer-to-peer platform. In terms of the actual code, there are many ways to code a BlockChain, such as in C#, GoLang, Python or Rust. <sup>[18](#myendnote18)</sup> 
 
 While this new cryptocurrency would have start up costs associated with it, I would recommend using open-source technologies like Python whenever possible. This would reduce the likelihood of litigation if using a proprietary programming language like C# or Java. Some costs are unavoidable, when scaling up a technology. But the main idea in selecting this type of technology stack would be to insulate the company from any competitors or future costs. 
 
@@ -125,8 +125,8 @@ While this new cryptocurrency would have start up costs associated with it, I wo
 <a name="myendnote9">9</a>: [StackShare Profile, WealthSimple](https://stackshare.io/wealthsimple/wealthsimple) <br/>
 <a name="myendnote10">10</a>: [FinTech News, Canada Report](https://fintechnews.ch/fintech/fintech-canada-report/19783/) <br/>
 <a name="myendnote11">11</a>: [Financial Post](https://financialpost.com/investing/wealthsimple-valuation-should-be-a-wake-up-call-for-big-banks-and-traditional-money-managers) <br/>
-<a name="myendnote12">12</a>: [BNN Bloomberg news article](https://www.bnnbloomberg.ca/wealthsimple-cash-becomes-first-canadian-service-integrated-into-twitter-s-tip-jar-1.1641843) <br/>
-<a name="myendnote13">13</a>: [Medium.com BlockChain article](https://medium.com/duomly-blockchain-online-courses/which-programming-language-is-the-best-to-be-a-blockchain-developer-2cb288e14765)  <br/>
+<a name="myendnote17">17</a>: [BNN Bloomberg news article](https://www.bnnbloomberg.ca/wealthsimple-cash-becomes-first-canadian-service-integrated-into-twitter-s-tip-jar-1.1641843) <br/>
+<a name="myendnote18">18</a>: [Medium.com BlockChain article](https://medium.com/duomly-blockchain-online-courses/which-programming-language-is-the-best-to-be-a-blockchain-developer-2cb288e14765)  <br/>
 
 ## References 
 
@@ -165,6 +165,9 @@ Owler. *Wealthsimple Top Competitors or Alternatives.* (2013). Retrieved August 
 Pelletier, M. (2021, May 7). Wealthsimple valuation should be a wake-up call for big banks and traditional money managers. Retrieved August 21, 2021, from financialpost website: https://financialpost.com/investing/wealthsimple-valuation-should-be-a-wake-up-call-for-big-banks-and-traditional-money-managers
 
 LinkedIn. (2021). *LinkedIn Insights on WealthSimple* Retrieved August 21, 2021, from Linkedin.com website: https://www.linkedin.com/company/wealthsimple/
+
+Yahoo Finance. *WEALTHSIMPLE NA SOCIALLY RESP I (WSRI.TO) Stock Historical Prices & Data - Yahoo Finance.* (2021). Retrieved August 21, 2021, from @YahooFinance website: https://finance.yahoo.com/quote/WSRI.TO/history?period1=1597974298&period2=1629510298&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
+
 
 
 
