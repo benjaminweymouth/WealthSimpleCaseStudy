@@ -28,7 +28,7 @@ Since 2014, WealthSimple has raised $900.4M in funding. <sup>[5](#myendnote5)</s
 
 WealthSimple is in the business of creating wealth building opportunities for persons who are willing to accept the risk of a non-traditional financial company. They offer up a new business model which includes online-only service offerings such as investment, trading, bank accounts and a cryptocurrency exchange. Their business architecture is novel because they do not rely upon brick-and-mortar branches to offer these services. 
 
-The WealthSimple creed has been established and it is possible to consider whether or not it is a simple or attainable goal. Their main corporate philosophy is as follows: 
+The WealthSimple creed has been published, and thus it is possible to consider whether or not it is a simple or attainable goal. Their main corporate philosophy is as follows: 
 
 > *“The first is our mission. Which is pretty radical — to completely democratize wealth. To see access to financial freedom as a human right for everyone no matter where you come from or how much money you have.”* <sup>[7](#myendnote7)</sup>
 
