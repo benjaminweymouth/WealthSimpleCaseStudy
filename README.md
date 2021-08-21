@@ -57,7 +57,7 @@ In order to display the breadth of the Wealth Simple Tech Stack, an image has be
 
 WealthSimple inhabits a growing economic domain of digital banks who specialize in online trading, cryptocurrency, robo-advising and peer-to-peer payments. This is a novel product portfolio because many firms will only specialize in one or more of these financial products. Thus, WealthSimple's industrial categorization crosses boundaries and places it within a unique market position. 
 
-The Canadian FinTech market has seen many changes over the last decade. One notable trend is the introduction of new financial disruptors, like WealthSimple, who enter a field once previously dominated by established banks and financial institutions. 
+The Canadian FinTech market has seen many changes over the last decade. One notable trend is the introduction of new financial disruptors, like WealthSimple, who enter a field once previously dominated by established banks and financial institutions. These banks rely on traditional brick-and-mortar bank branches and charge higher fees compared to the comission-free platform highlighted in the last section. 
 
 The other major Fintech firms who inhabit this disruptive space include QuesTrade, QTrade and RobinHood. However, while QuesTrade and QTrade are available in Canada, RobinHood is not available to Canadians at this time in 2021. Therefore, WealthSimple has a strategic advantage over comparable firms from an international perspective.  
 
