@@ -49,7 +49,7 @@ In order to acheive this goal, WealthSimple has created a number of new financia
 
 WealthSimple uses both a mobile phone app and a web platform for it's products and service offerings. According to StackShare, they implement the mobile app using a platform called React Native and the website is built with React. However, there are many other technologies used in the creation of their products and an image has been included to display the plethora of technologies used. 
 
-Wealth Simple Tech Stack, from StackShare: <sup>[9](#myendnote9)</sup> 
+In order to display the breadth of the Wealth Simple Tech Stack, an image has been provided from StackShare: <sup>[9](#myendnote9)</sup> 
 
 [![WealthCoinTechStack](/images/StackShareWealthSimple.png)](https://stackshare.io/wealthsimple/wealthsimple)
 
