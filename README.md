@@ -39,9 +39,9 @@ This goals seems to be rooted in a democratic sense, which highlights the univer
 | ------------- |:-------------:| 
 | WealthSimple Invest      | An investment tool | 
 | WealthSimple Trade      | A commission-free stock trading platform      |  
-| WealthSimple Crypto | A Cryptocurrency Exchange with insurance coverage      | 
+| WealthSimple Crypto | A cryptocurrency exchange with insurance coverage      | 
 | WealthSimple Cash | A peer-to-peer payment platform     | 
-| WealthSimple Tax | A Tax Return platform for analysis and filing      | 
+| WealthSimple Tax | A tax return platform for analysis and filing      | 
 
 These products and services are geared towards the millenial audience, who may have some finances invested in traditional banks, but have not locked in their savings entirely. This way, WealthSimple would be able to capitalize on that amount and disrupt the traditional investment process. 
 
