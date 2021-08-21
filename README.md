@@ -81,7 +81,7 @@ The success or failure of a relatively new company in an emerging market like Fi
 | WealthSimple's ETF Performance | +0.61% increase  <sup>[13](#myendnote13)</sup>     | 
 | Annual revenue | $33M  <sup>[14](#myendnote14)</sup>   | 
 
-One conclusion that we can draw is that WealthSimple is doing well in it's own right. In an independant analysis, it's market valuation seems to be increasing rapidly, along with it's number of employees. The ETF is also increasing, which means that the market analysis that WealthSimple provides should give it's customers some gains and economic utility. However, it may also be prudent to analyze how WealthSimple is faring in comparison to the market competitors and incumbants. 
+One conclusion that we can draw is that WealthSimple is doing well in it's own right. In an independant analysis, it's market valuation seems to be increasing rapidly, along with it's number of employees. The ETF value is also increasing, which means that the market analysis that WealthSimple provides should give it's customers some gains and economic utility. However, it may also be prudent to analyze how WealthSimple is faring in comparison to the market competitors and incumbants. 
 
 According to the Financial Post, the WealthSimple valuation in May 2021 should be enough for it's competition to be concerned.<sup>[11](#myendnote11)</sup>  According to the website Craft, WealthSimple fares well in terms of employee growth, assets under management, customers, and their latest funding round. <sup>[15](#myendnote15)</sup> 
 
