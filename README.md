@@ -122,40 +122,40 @@ In conclusion, it is clear that WealthSimple is revolutionary, new and highly di
 
 ## References 
 
-Crunchbase. (2014). *WealthSimple* Retrieved August 20, 2021, from Crunchbase website: https://www.crunchbase.com/organization/wealthsimple
-
-Porter, Michael E. (2004). *Competitive Strategy, Techniques for Analyzing Industries and Competitors.* - Google Play (2021). Available at: https://play.google.com/books/reader?id=Hn1kNE0OcGsC&pg=GBS.PT15&printsec=frontcover (Accessed: 15 August 2021).
-
-OPM. (2019, October 24). *The WealthSimple founders before Wealthsimple.* Retrieved August 17, 2021, from OPM Wire website: https://opmglobal.com/opmwire/wealthsimple-founders-before-wealthsimple/
-
-Perspective. (2018, February 15). *Wealthsimple’s connection to Huron University College* - Perspective. Retrieved August 20, 2021, from Perspective website: https://perspective.ca/wealthsimple-huron-university-college-london-ontario/
+The Canadian Press. (2021, August 19). *Wealthsimple Cash becomes first Canadian service integrated into Twitter’s Tip Jar*  - BNN Bloomberg. Retrieved August 20, 2021, from BNN website: https://www.bnnbloomberg.ca/wealthsimple-cash-becomes-first-canadian-service-integrated-into-twitter-s-tip-jar-1.1641843
 
 ‌Cbinsights. *Wealthsimple - Headquarter Locations, Competitors, Financials, Employees.*  Retrieved August 20, 2021, from Cbinsights.com website: https://www.cbinsights.com/company/wealthsimple
 
-‌WealthSimple. (2018, August 9). *Wealthsimple: The Story of Who We Are.*  Retrieved August 20, 2021, from Wealthsimple.com website: https://www.wealthsimple.com/en-ca/magazine/culture-manual
-
-‌Newswire. (2021, May 3). *Wealthsimple announces $750 million investment at a $5 billion valuation to build Canada’s leading consumer finance brand.* Retrieved August 20, 2021, from Newswire.ca website: https://www.newswire.ca/news-releases/wealthsimple-funding-announcement-q2-2021-866613230.html
-
-‌Newswire. (2020, October 14). *Wealthsimple announces CAD $114 million investment led by TCV to transform financial services in Canada.* Retrieved August 20, 2021, from Newswire.ca website: https://www.newswire.ca/news-releases/wealthsimple-announces-cad-114-million-investment-led-by-tcv-to-transform-financial-services-in-canada-889996456.html
-
-‌Wikipedia Contributors. (2021, August 13). *Wealthsimple.* Retrieved August 20, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Wealthsimple
-
-StackShare. (2021). *Wealthsimple - Wealthsimple Tech Stack.*  Retrieved August 20, 2021, from StackShare website: https://stackshare.io/wealthsimple/wealthsimple
+Crunchbase. (2014). *WealthSimple* Retrieved August 20, 2021, from Crunchbase website: https://www.crunchbase.com/organization/wealthsimple
 
 FinTech Switzerland. (2018). *Fintech Canada Report, Industry Set to Witness Strong Growth.* Retrieved 20 August 2021, from https://fintechnews.ch/fintech/fintech-canada-report/19783/
 
-The Canadian Press. (2021, August 19). *Wealthsimple Cash becomes first Canadian service integrated into Twitter’s Tip Jar*  - BNN Bloomberg. Retrieved August 20, 2021, from BNN website: https://www.bnnbloomberg.ca/wealthsimple-cash-becomes-first-canadian-service-integrated-into-twitter-s-tip-jar-1.1641843
-
-Radoslaw Fabisiak. (2018, August 14). *Which programming language is the best to be a blockchain developer.* Retrieved August 20, 2021, from Medium website: https://medium.com/duomly-blockchain-online-courses/which-programming-language-is-the-best-to-be-a-blockchain-developer-2cb288e14765
-
 Investopedia.(2021). *Wealthsimple Review.*  Retrieved August 20, 2021, from Investopedia website: https://www.investopedia.com/wealthsimple-review-4684946
 
-Simpson, M. (2021, March 4). *Wealthsimple sells US book of business to Betterment as company claims renewed focus on Canada* | BetaKit. Retrieved August 20, 2021, from BetaKit website: https://betakit.com/wealthsimple-sells-us-book-of-business-to-betterment-as-company-claims-renewed-focus-on-canada/
+LinkedIn. (2021). *LinkedIn Insights on WealthSimple* Retrieved August 21, 2021, from Linkedin.com website: https://www.linkedin.com/company/wealthsimple/
+
+‌Newswire. (2020, October 14). *Wealthsimple announces CAD $114 million investment led by TCV to transform financial services in Canada.* Retrieved August 20, 2021, from Newswire.ca website: https://www.newswire.ca/news-releases/wealthsimple-announces-cad-114-million-investment-led-by-tcv-to-transform-financial-services-in-canada-889996456.html
+
+‌Newswire. (2021, May 3). *Wealthsimple announces $750 million investment at a $5 billion valuation to build Canada’s leading consumer finance brand.* Retrieved August 20, 2021, from Newswire.ca website: https://www.newswire.ca/news-releases/wealthsimple-funding-announcement-q2-2021-866613230.html
+
+OPM. (2019, October 24). *The WealthSimple founders before Wealthsimple.* Retrieved August 17, 2021, from OPM Wire website: https://opmglobal.com/opmwire/wealthsimple-founders-before-wealthsimple/
 
 Owler. *Wealthsimple Top Competitors or Alternatives.* (2013). Retrieved August 21, 2021, from Owler website: https://www.owler.com/company/wealthsimple
 
 Pelletier, M. (2021, May 7). *Wealthsimple valuation should be a wake-up call for big banks and traditional money managers.* Retrieved August 21, 2021, from financialpost website: https://financialpost.com/investing/wealthsimple-valuation-should-be-a-wake-up-call-for-big-banks-and-traditional-money-managers
 
-LinkedIn. (2021). *LinkedIn Insights on WealthSimple* Retrieved August 21, 2021, from Linkedin.com website: https://www.linkedin.com/company/wealthsimple/
+Perspective. (2018, February 15). *Wealthsimple’s connection to Huron University College* - Perspective. Retrieved August 20, 2021, from Perspective website: https://perspective.ca/wealthsimple-huron-university-college-london-ontario/
+
+Porter, Michael E. (2004). *Competitive Strategy, Techniques for Analyzing Industries and Competitors.* - Google Play (2021). Available at: https://play.google.com/books/reader?id=Hn1kNE0OcGsC&pg=GBS.PT15&printsec=frontcover (Accessed: 15 August 2021).
+
+Radoslaw Fabisiak. (2018, August 14). *Which programming language is the best to be a blockchain developer.* Retrieved August 20, 2021, from Medium website: https://medium.com/duomly-blockchain-online-courses/which-programming-language-is-the-best-to-be-a-blockchain-developer-2cb288e14765
+
+Simpson, M. (2021, March 4). *Wealthsimple sells US book of business to Betterment as company claims renewed focus on Canada* | BetaKit. Retrieved August 20, 2021, from BetaKit website: https://betakit.com/wealthsimple-sells-us-book-of-business-to-betterment-as-company-claims-renewed-focus-on-canada/
+
+StackShare. (2021). *Wealthsimple - Wealthsimple Tech Stack.*  Retrieved August 20, 2021, from StackShare website: https://stackshare.io/wealthsimple/wealthsimple
+
+‌WealthSimple. (2018, August 9). *Wealthsimple: The Story of Who We Are.*  Retrieved August 20, 2021, from Wealthsimple.com website: https://www.wealthsimple.com/en-ca/magazine/culture-manual
+
+‌Wikipedia Contributors. (2021, August 13). *Wealthsimple.* Retrieved August 20, 2021, from Wikipedia website: https://en.wikipedia.org/wiki/Wealthsimple
 
 Yahoo Finance. *WEALTHSIMPLE NA SOCIALLY RESP I (WSRI.TO) Stock Historical Prices & Data* - Yahoo Finance. (2021). Retrieved August 21, 2021, from @YahooFinance website: https://finance.yahoo.com/quote/WSRI.TO/history?period1=1597974298&period2=1629510298&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
