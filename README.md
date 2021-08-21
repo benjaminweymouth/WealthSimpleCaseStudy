@@ -16,7 +16,7 @@ This analysis seeks to deconstruct some of the key features, trends and activiti
 
 ## Overview and Origin
 
-The rationale for selecting WealthSimple as a case study is because in an economic era filled with traditional banking systems, WealthSimple provides a unique alternative for wealth accumulation. WealthSimple was founded in 2014, and provides financial services relating to trading, investments, cryptocurrencies, portfolio management and tax filing. <sup>[1](#myendnote1)</sup> This analysis is a concise overview of the factors that have led to the rise of a new power in the financial industry: WealthSimple. 
+In an economic era filled with traditional banking systems, WealthSimple provides a unique case study for analysis because the company represents an alternative path for wealth accumulation. WealthSimple was founded in 2014, and provides financial services relating to trading, investments, cryptocurrencies, portfolio management and tax filing. <sup>[1](#myendnote1)</sup> This analysis is a concise overview of the factors that have led to the rise of a new power in the financial industry: WealthSimple. 
 
 The WealthSimple website describes a humble origin story as the founders "working together out of WealthSimple CEO Mike Katchen’s apartment." <sup>[2](#myendnote1)</sup> There were three founders of the company: Michael Katchen, Brett Huneycutt and Rudy Adler. 
 
