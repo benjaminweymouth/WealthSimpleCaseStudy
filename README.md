@@ -134,7 +134,7 @@ While this new cryptocurrency would have start up costs associated with it, I wo
 <a name="myendnote8">8</a>: [Investopedia, WealthSimple Review](https://www.investopedia.com/wealthsimple-review-4684946)<br/>
 <a name="myendnote9">9</a>: [StackShare Profile, WealthSimple](https://stackshare.io/wealthsimple/wealthsimple) <br/>
 <a name="myendnote10">10</a>: [FinTech News, Canada Report](https://fintechnews.ch/fintech/fintech-canada-report/19783/) <br/>
-
+<a name="myendnote11">11</a>: [Financial Post](https://financialpost.com/investing/wealthsimple-valuation-should-be-a-wake-up-call-for-big-banks-and-traditional-money-managers) <br/>
 <a name="myendnote12">12</a>: [BNN Bloomberg news article](https://www.bnnbloomberg.ca/wealthsimple-cash-becomes-first-canadian-service-integrated-into-twitter-s-tip-jar-1.1641843) <br/>
 <a name="myendnote13">13</a>: [Medium.com BlockChain article](https://medium.com/duomly-blockchain-online-courses/which-programming-language-is-the-best-to-be-a-blockchain-developer-2cb288e14765)  <br/>
 
