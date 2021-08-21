@@ -158,10 +158,4 @@ Pelletier, M. (2021, May 7). *Wealthsimple valuation should be a wake-up call fo
 
 LinkedIn. (2021). *LinkedIn Insights on WealthSimple* Retrieved August 21, 2021, from Linkedin.com website: https://www.linkedin.com/company/wealthsimple/
 
-Yahoo Finance. *WEALTHSIMPLE NA SOCIALLY RESP I (WSRI.TO) Stock Historical Prices & Data - Yahoo Finance.* (2021). Retrieved August 21, 2021, from @YahooFinance website: https://finance.yahoo.com/quote/WSRI.TO/history?period1=1597974298&period2=1629510298&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
-
-
-
-
-
-
+Yahoo Finance. *WEALTHSIMPLE NA SOCIALLY RESP I (WSRI.TO) Stock Historical Prices & Data* - Yahoo Finance. (2021). Retrieved August 21, 2021, from @YahooFinance website: https://finance.yahoo.com/quote/WSRI.TO/history?period1=1597974298&period2=1629510298&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
