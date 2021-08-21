@@ -79,7 +79,7 @@ The success or failure of a relatively new company in an emerging market like Fi
 | Market Valuation     | An investment tool | 
 | number of employees      | A commission-free stock trading platform      |  
 | ETF Performance | A Cryptocurrency Exchange with insurance coverage      | 
-| annual revenue | A peer-to-peer payment platform     | 
+| annual revenue | $33M    | 
 
 
 -Net profit margin: Currently WealthSimple is 
@@ -169,5 +169,11 @@ Investopedia.(2021). *Wealthsimple Review.*  Retrieved August 20, 2021, from Inv
 
 Simpson, M. (2021, March 4). Wealthsimple sells US book of business to Betterment as company claims renewed focus on Canada | BetaKit. Retrieved August 20, 2021, from BetaKit website: https://betakit.com/wealthsimple-sells-us-book-of-business-to-betterment-as-company-claims-renewed-focus-on-canada/
 
+Owler. *Wealthsimple Top Competitors or Alternatives.* (2013). Retrieved August 21, 2021, from Owler website: https://www.owler.com/company/wealthsimple
+
+Pelletier, M. (2021, May 7). Wealthsimple valuation should be a wake-up call for big banks and traditional money managers. Retrieved August 21, 2021, from financialpost website: https://financialpost.com/investing/wealthsimple-valuation-should-be-a-wake-up-call-for-big-banks-and-traditional-money-managers
+
 ‌
+
+
 
